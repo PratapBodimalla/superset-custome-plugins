@@ -144,6 +144,7 @@ const config: ControlPanelConfig = {
               height: 50,
               renderTrigger: true,
               description: "Add tooltip Heat customization template here.",
+              language: "markdown",
             },
           },
         ],
@@ -221,6 +222,7 @@ const config: ControlPanelConfig = {
               renderTrigger: true,
               description:
                 "Add tooltip for bubble customization template here.",
+              language: "markdown",
             },
           },
         ],

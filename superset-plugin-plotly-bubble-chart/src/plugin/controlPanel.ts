@@ -157,13 +157,14 @@ const config: ControlPanelConfig = {
         ["color_scheme"],
         [
           {
-            name: "hover_template",
+            name: "hovertemplate",
             config: {
               type: "TextAreaControl",
               label: t("Customize tooltip"),
               height: 50,
               renderTrigger: true,
               description: "Add tooltip customization template here.",
+              language: "markdown",
             },
           },
         ],
@@ -176,7 +177,7 @@ const config: ControlPanelConfig = {
       controlSetRows: [
         [
           {
-            name: "show_orientation",
+            name: "showOrientation",
             config: {
               label: t("Show Legend"),
               type: "CheckboxControl",

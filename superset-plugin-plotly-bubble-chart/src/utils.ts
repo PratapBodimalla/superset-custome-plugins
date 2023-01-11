@@ -79,9 +79,9 @@ export const ConvertToBubbleChart = ({
       },
       ...addWhen({
         data: {
-          hovertemplate: item.hoverTemplate,
+          hovertemplate: item.hovertemplate,
         },
-        add: Boolean(item.hoverTemplate),
+        add: Boolean(item.hovertemplate),
         arrayParse: false,
       }),
     });
@@ -121,7 +121,7 @@ export const ConvertToBubbleChart = ({
     hovermode: "closest",
     width: Number(width),
     height: Number(height),
-    showlegend: formData.showOrientation,
+    showlegend: formData.showOrientation || false,
     ...addWhen({
       data: {
         legend: {
