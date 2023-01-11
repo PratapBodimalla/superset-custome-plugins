@@ -1,0 +1,46 @@
+--------------------------------------------------------------------------------
+                                    WARNING
+--------------------------------------------------------------------------------
+A Default SECRET_KEY was detected, please use superset_config.py to override it.
+Use a strong complex alphanumeric string and use a tool to help you generate 
+a sufficiently random sequence, ex: openssl rand -base64 42
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+logging was configured successfully
+2023-01-11 05:19:08,067:INFO:superset.utils.logging_configurator:logging was configured successfully
+2023-01-11 05:19:08,071:INFO:root:Configured event logger of type <class 'superset.utils.log.DBEventLogger'>
+We haven't found any Content Security Policy (CSP) defined in the configurations. Please make sure to configure CSP using the TALISMAN_CONFIG key or any other external software. Failing to configure CSP have serious security implications. Check https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP for more information. You can disable this warning using the CONTENT_SECURITY_POLICY_WARNING key.
+2023-01-11 05:19:08,072:WARNING:superset.initialization:We haven't found any Content Security Policy (CSP) defined in the configurations. Please make sure to configure CSP using the TALISMAN_CONFIG key or any other external software. Failing to configure CSP have serious security implications. Check https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP for more information. You can disable this warning using the CONTENT_SECURITY_POLICY_WARNING key.
+Falling back to the built-in cache, that stores data in the metadata database, for the following cache: `FILTER_STATE_CACHE_CONFIG`. It is recommended to use `RedisCache`, `MemcachedCache` or another dedicated caching backend for production deployments
+2023-01-11 05:19:08,073:WARNING:superset.utils.cache_manager:Falling back to the built-in cache, that stores data in the metadata database, for the following cache: `FILTER_STATE_CACHE_CONFIG`. It is recommended to use `RedisCache`, `MemcachedCache` or another dedicated caching backend for production deployments
+Falling back to the built-in cache, that stores data in the metadata database, for the following cache: `EXPLORE_FORM_DATA_CACHE_CONFIG`. It is recommended to use `RedisCache`, `MemcachedCache` or another dedicated caching backend for production deployments
+2023-01-11 05:19:08,075:WARNING:superset.utils.cache_manager:Falling back to the built-in cache, that stores data in the metadata database, for the following cache: `EXPLORE_FORM_DATA_CACHE_CONFIG`. It is recommended to use `RedisCache`, `MemcachedCache` or another dedicated caching backend for production deployments
+**************************************
+/home/ubuntu/custom-plugins/superset-plugin-plotly-map
+Loaded your LOCAL configuration at [/home/ubuntu/superset-upag/superset/superset_custome_configurations/superset_config.py]
+ * Serving Flask app 'superset' (lazy loading)
+ * Environment: development
+ * Debug mode: on
+/home/ubuntu/superset-upag/upag/lib/python3.8/site-packages/flask_appbuilder/models/sqla/interface.py:68: SAWarning: relationship 'SqlaTable.slices' will copy column tables.id to column slices.datasource_id, which conflicts with relationship(s): 'Slice.table' (copies tables.id to slices.datasource_id). If this is not the intention, consider if these relationships should be linked with back_populates, or if viewonly=True should be applied to one or more if they are read-only. For the less common case that foreign key constraints are partially overlapping, the orm.foreign() annotation can be used to isolate the columns that should be written towards.   To silence this warning, add the parameter 'overlaps="table"' to the 'SqlaTable.slices' relationship. (Background on this error at: https://sqlalche.me/e/14/qzyx)
+  for prop in class_mapper(obj).iterate_properties:
+2023-01-11 05:19:08,927:WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-01-11 05:19:08,927:INFO:werkzeug: * Running on http://172.31.5.233:8088/ (Press CTRL+C to quit)
+2023-01-11 05:19:08,928:INFO:werkzeug: * Restarting with stat
+--------------------------------------------------------------------------------
+                                    WARNING
+--------------------------------------------------------------------------------
+A Default SECRET_KEY was detected, please use superset_config.py to override it.
+Use a strong complex alphanumeric string and use a tool to help you generate 
+a sufficiently random sequence, ex: openssl rand -base64 42
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+2023-01-11 05:19:10,488:INFO:superset.utils.logging_configurator:logging was configured successfully
+2023-01-11 05:19:10,492:INFO:root:Configured event logger of type <class 'superset.utils.log.DBEventLogger'>
+/home/ubuntu/superset-upag/upag/lib/python3.8/site-packages/flask_appbuilder/models/sqla/interface.py:68: SAWarning: relationship 'SqlaTable.slices' will copy column tables.id to column slices.datasource_id, which conflicts with relationship(s): 'Slice.table' (copies tables.id to slices.datasource_id). If this is not the intention, consider if these relationships should be linked with back_populates, or if viewonly=True should be applied to one or more if they are read-only. For the less common case that foreign key constraints are partially overlapping, the orm.foreign() annotation can be used to isolate the columns that should be written towards.   To silence this warning, add the parameter 'overlaps="table"' to the 'SqlaTable.slices' relationship. (Background on this error at: https://sqlalche.me/e/14/qzyx)
+  for prop in class_mapper(obj).iterate_properties:
+2023-01-11 05:19:11,343:WARNING:werkzeug: * Debugger is active!
+2023-01-11 05:19:11,344:INFO:werkzeug: * Debugger PIN: 886-319-710
+**************************************
+/home/ubuntu/custom-plugins/superset-plugin-plotly-map
+Loaded your LOCAL configuration at [/home/ubuntu/superset-upag/superset/superset_custome_configurations/superset_config.py]
