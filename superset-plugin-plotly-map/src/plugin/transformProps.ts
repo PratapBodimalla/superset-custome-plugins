@@ -115,7 +115,6 @@ export default function transformProps(chartProps: ChartProps) {
               Number(formData.maxBubbleSize || 35) ** 2,
             opacity: 0.7,
           },
-          showlegend: true,
         },
         add: Boolean(scatters?.length),
       }),
