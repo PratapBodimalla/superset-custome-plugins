@@ -115,7 +115,23 @@ export const ConvertToBubbleChart = ({
   }
 
   const layout = {
+    xaxis: {
+      ...addWhen({
+        data: {
+          title: formData.xtitle,
+        },
+        arrayParse: false,
+        add: Boolean(formData.xtitle),
+      }),
+    },
     yaxis: {
+      ...addWhen({
+        data: {
+          title: formData.ytitle,
+        },
+        arrayParse: false,
+        add: Boolean(formData.ytitle),
+      }),
       type: "log",
     },
     hovermode: "closest",
@@ -155,7 +171,7 @@ export const ConvertToBubbleChart = ({
         showactive: true,
         direction: "left",
         type: "buttons",
-        pad: { t: 34, r: 10, l: -35 },
+        pad: { t: 48, r: 10, l: -35 },
         buttons: [
           {
             method: "animate",
@@ -187,7 +203,7 @@ export const ConvertToBubbleChart = ({
     ],
     sliders: [
       {
-        pad: { l: 60, t: 20 },
+        pad: { l: 60, t: 34 },
         currentvalue: {
           visible: true,
           prefix: capitalize(formData.yearColumn) + ": ",

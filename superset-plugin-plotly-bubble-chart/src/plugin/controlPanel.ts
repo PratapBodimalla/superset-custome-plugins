@@ -168,11 +168,33 @@ const config: ControlPanelConfig = {
             },
           },
         ],
+        [
+          {
+            name: "xtitle",
+            config: {
+              type: "TextControl",
+              label: t("X-Axis Title"),
+              renderTrigger: true,
+              description: "Add tooltip customization x-axis title here.",
+            },
+          },
+        ],
+        [
+          {
+            name: "ytitle",
+            config: {
+              type: "TextControl",
+              label: t("Y-Axis Title"),
+              renderTrigger: true,
+              description: "Add tooltip customization y-axis title here.",
+            },
+          },
+        ],
       ],
     },
     {
       label: t("Legend controls"),
-      expanded: true,
+      expanded: false,
       tabOverride: "customize",
       controlSetRows: [
         [
@@ -192,7 +214,10 @@ const config: ControlPanelConfig = {
               type: "SelectControl",
               renderTrigger: true,
               default: "h",
-              choices: formatSelectOptions(["h", "v"]),
+              choices: formatSelectOptions([
+                ["h", "Horizontal"],
+                ["v", "Vertical"],
+              ]),
             },
           },
         ],
