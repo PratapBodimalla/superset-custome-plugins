@@ -1,0 +1,5978 @@
+[
+  {
+    "DistrictName": "24 Paraganas North",
+    "StateName": "West Bengal",
+    "Year": "2011",
+    "SUM(I6000_10)": 2348683,
+    "SUM(I6000_11)": 10009781,
+    "SUM(I6000_13)": 4890392
+  },
+  {
+    "DistrictName": "24 Paraganas South",
+    "StateName": "West Bengal",
+    "Year": "2011",
+    "SUM(I6000_10)": 1781221,
+    "SUM(I6000_11)": 8161961,
+    "SUM(I6000_13)": 3988183
+  },
+  {
+    "DistrictName": "Adilabad",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 156683,
+    "SUM(I6000_11)": 708972,
+    "SUM(I6000_13)": 352565
+  },
+  {
+    "DistrictName": "Agar Malwa",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 115871,
+    "SUM(I6000_11)": 571278,
+    "SUM(I6000_13)": 278226
+  },
+  {
+    "DistrictName": "Agra",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 710566,
+    "SUM(I6000_11)": 4418797,
+    "SUM(I6000_13)": 2053844
+  },
+  {
+    "DistrictName": "Ahmadabad",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 1481600,
+    "SUM(I6000_11)": 7059056,
+    "SUM(I6000_13)": 3350860
+  },
+  {
+    "DistrictName": "Ahmednagar",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 930024,
+    "SUM(I6000_11)": 4543159,
+    "SUM(I6000_13)": 2200334
+  },
+  {
+    "DistrictName": "Aizawl",
+    "StateName": "Mizoram",
+    "Year": "2011",
+    "SUM(I6000_10)": 77279,
+    "SUM(I6000_11)": 373722,
+    "SUM(I6000_13)": 188074
+  },
+  {
+    "DistrictName": "Ajmer",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 494832,
+    "SUM(I6000_11)": 2583052,
+    "SUM(I6000_13)": 1258967
+  },
+  {
+    "DistrictName": "Akola",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 396276,
+    "SUM(I6000_11)": 1816839,
+    "SUM(I6000_13)": 883024
+  },
+  {
+    "DistrictName": "Alappuzha",
+    "StateName": "Kerala",
+    "Year": "2011",
+    "SUM(I6000_10)": 535958,
+    "SUM(I6000_11)": 2127789,
+    "SUM(I6000_13)": 1114647
+  },
+  {
+    "DistrictName": "Aligarh",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 611371,
+    "SUM(I6000_11)": 3673889,
+    "SUM(I6000_13)": 1721893
+  },
+  {
+    "DistrictName": "Alipurduar",
+    "StateName": "West Bengal",
+    "Year": "2011",
+    "SUM(I6000_10)": 335253,
+    "SUM(I6000_11)": 1491250,
+    "SUM(I6000_13)": 725718
+  },
+  {
+    "DistrictName": "Alirajpur",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 123800,
+    "SUM(I6000_11)": 728999,
+    "SUM(I6000_13)": 366457
+  },
+  {
+    "DistrictName": "Almora",
+    "StateName": "Uttarakhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 140577,
+    "SUM(I6000_11)": 622506,
+    "SUM(I6000_13)": 331425
+  },
+  {
+    "DistrictName": "Alwar",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 635073,
+    "SUM(I6000_11)": 3647548,
+    "SUM(I6000_13)": 1722501
+  },
+  {
+    "DistrictName": "Ambala",
+    "StateName": "Haryana",
+    "Year": "2011",
+    "SUM(I6000_10)": 224334,
+    "SUM(I6000_11)": 1128350,
+    "SUM(I6000_13)": 529647
+  },
+  {
+    "DistrictName": "Ambedkar Nagar",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 368728,
+    "SUM(I6000_11)": 2397888,
+    "SUM(I6000_13)": 1185478
+  },
+  {
+    "DistrictName": "Amethi",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 317903,
+    "SUM(I6000_11)": 1862913,
+    "SUM(I6000_13)": 919943
+  },
+  {
+    "DistrictName": "Amravati",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 646865,
+    "SUM(I6000_11)": 2885512,
+    "SUM(I6000_13)": 1406225
+  },
+  {
+    "DistrictName": "Amreli",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 294630,
+    "SUM(I6000_11)": 1512933,
+    "SUM(I6000_13)": 742515
+  },
+  {
+    "DistrictName": "Amritsar",
+    "StateName": "Punjab",
+    "Year": "2011",
+    "SUM(I6000_10)": 488898,
+    "SUM(I6000_11)": 2490656,
+    "SUM(I6000_13)": 1172248
+  },
+  {
+    "DistrictName": "Amroha",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 314401,
+    "SUM(I6000_11)": 1840221,
+    "SUM(I6000_13)": 876772
+  },
+  {
+    "DistrictName": "Anand",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 424817,
+    "SUM(I6000_11)": 2078654,
+    "SUM(I6000_13)": 998683
+  },
+  {
+    "DistrictName": "Anantapur",
+    "StateName": "Andhra Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 968160,
+    "SUM(I6000_11)": 4081148,
+    "SUM(I6000_13)": 2016653
+  },
+  {
+    "DistrictName": "Anantnag",
+    "StateName": "Jammu And Kashmir",
+    "Year": "2011",
+    "SUM(I6000_10)": 153640,
+    "SUM(I6000_11)": 1078692,
+    "SUM(I6000_13)": 518925
+  },
+  {
+    "DistrictName": "Anjaw",
+    "StateName": "Arunachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 4612,
+    "SUM(I6000_11)": 21167,
+    "SUM(I6000_13)": 9660
+  },
+  {
+    "DistrictName": "Anugul",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 297050,
+    "SUM(I6000_11)": 1273821,
+    "SUM(I6000_13)": 618103
+  },
+  {
+    "DistrictName": "Anuppur",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 168611,
+    "SUM(I6000_11)": 739560,
+    "SUM(I6000_13)": 365412
+  },
+  {
+    "DistrictName": "Araria",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 568142,
+    "SUM(I6000_11)": 2811569,
+    "SUM(I6000_13)": 1348236
+  },
+  {
+    "DistrictName": "Ariyalur",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 197090,
+    "SUM(I6000_11)": 754894,
+    "SUM(I6000_13)": 380191
+  },
+  {
+    "DistrictName": "Arvalli",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 203227,
+    "SUM(I6000_11)": 1023515,
+    "SUM(I6000_13)": 499519
+  },
+  {
+    "DistrictName": "Arwal",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 118222,
+    "SUM(I6000_11)": 700843,
+    "SUM(I6000_13)": 337346
+  },
+  {
+    "DistrictName": "Ashoknagar",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 172680,
+    "SUM(I6000_11)": 845071,
+    "SUM(I6000_13)": 401234
+  },
+  {
+    "DistrictName": "Auraiya",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 248197,
+    "SUM(I6000_11)": 1379545,
+    "SUM(I6000_13)": 639505
+  },
+  {
+    "DistrictName": "Aurangabad",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 391898,
+    "SUM(I6000_11)": 2540073,
+    "SUM(I6000_13)": 1221389
+  },
+  {
+    "DistrictName": "Aurangabad",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 753058,
+    "SUM(I6000_11)": 3707428,
+    "SUM(I6000_13)": 1779785
+  },
+  {
+    "DistrictName": "Ayodhya",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 423375,
+    "SUM(I6000_11)": 2470996,
+    "SUM(I6000_13)": 1211368
+  },
+  {
+    "DistrictName": "Azamgarh",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 665232,
+    "SUM(I6000_11)": 4613913,
+    "SUM(I6000_13)": 2328909
+  },
+  {
+    "DistrictName": "Bagalkote",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 361149,
+    "SUM(I6000_11)": 1889752,
+    "SUM(I6000_13)": 939641
+  },
+  {
+    "DistrictName": "Bageshwar",
+    "StateName": "Uttarakhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 58046,
+    "SUM(I6000_11)": 259898,
+    "SUM(I6000_13)": 135572
+  },
+  {
+    "DistrictName": "Baghpat",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 209916,
+    "SUM(I6000_11)": 1303048,
+    "SUM(I6000_13)": 602978
+  },
+  {
+    "DistrictName": "Bahraich",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 603754,
+    "SUM(I6000_11)": 3487731,
+    "SUM(I6000_13)": 1643847
+  },
+  {
+    "DistrictName": "Baksa",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 198236,
+    "SUM(I6000_11)": 979228,
+    "SUM(I6000_13)": 482752
+  },
+  {
+    "DistrictName": "Balaghat",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 391836,
+    "SUM(I6000_11)": 1701698,
+    "SUM(I6000_13)": 859520
+  },
+  {
+    "DistrictName": "Balangir",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 414978,
+    "SUM(I6000_11)": 1649893,
+    "SUM(I6000_13)": 819350
+  },
+  {
+    "DistrictName": "Baleshwar",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 533001,
+    "SUM(I6000_11)": 2320529,
+    "SUM(I6000_13)": 1134742
+  },
+  {
+    "DistrictName": "Ballari",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 547679,
+    "SUM(I6000_11)": 2754598,
+    "SUM(I6000_13)": 1363355
+  },
+  {
+    "DistrictName": "Ballia",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 480268,
+    "SUM(I6000_11)": 3239774,
+    "SUM(I6000_13)": 1566872
+  },
+  {
+    "DistrictName": "Balod",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 175469,
+    "SUM(I6000_11)": 826165,
+    "SUM(I6000_13)": 417527
+  },
+  {
+    "DistrictName": "Baloda Bazar",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 271135,
+    "SUM(I6000_11)": 1305343,
+    "SUM(I6000_13)": 653869
+  },
+  {
+    "DistrictName": "Balrampur",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 159886,
+    "SUM(I6000_11)": 730491,
+    "SUM(I6000_13)": 360235
+  },
+  {
+    "DistrictName": "Balrampur",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 323881,
+    "SUM(I6000_11)": 2148665,
+    "SUM(I6000_13)": 1033944
+  },
+  {
+    "DistrictName": "Banas Kantha",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 560411,
+    "SUM(I6000_11)": 3120506,
+    "SUM(I6000_13)": 1510127
+  },
+  {
+    "DistrictName": "Banda",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 319963,
+    "SUM(I6000_11)": 1799410,
+    "SUM(I6000_13)": 833534
+  },
+  {
+    "DistrictName": "Bandipora",
+    "StateName": "Jammu And Kashmir",
+    "Year": "2011",
+    "SUM(I6000_10)": 58392,
+    "SUM(I6000_11)": 392232,
+    "SUM(I6000_13)": 184552
+  },
+  {
+    "DistrictName": "Banka",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 376808,
+    "SUM(I6000_11)": 2009427,
+    "SUM(I6000_13)": 955739
+  },
+  {
+    "DistrictName": "Bankura",
+    "StateName": "West Bengal",
+    "Year": "2011",
+    "SUM(I6000_10)": 766902,
+    "SUM(I6000_11)": 3596674,
+    "SUM(I6000_13)": 1758579
+  },
+  {
+    "DistrictName": "Banswara",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 367797,
+    "SUM(I6000_11)": 1797485,
+    "SUM(I6000_13)": 889731
+  },
+  {
+    "DistrictName": "Barabanki",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 579058,
+    "SUM(I6000_11)": 3260699,
+    "SUM(I6000_13)": 1553626
+  },
+  {
+    "DistrictName": "Baramulla",
+    "StateName": "Jammu And Kashmir",
+    "Year": "2011",
+    "SUM(I6000_10)": 153172,
+    "SUM(I6000_11)": 1011629,
+    "SUM(I6000_13)": 475009
+  },
+  {
+    "DistrictName": "Baran",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 241765,
+    "SUM(I6000_11)": 1224422,
+    "SUM(I6000_13)": 589630
+  },
+  {
+    "DistrictName": "Bareilly",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 756784,
+    "SUM(I6000_11)": 4448359,
+    "SUM(I6000_13)": 2090694
+  },
+  {
+    "DistrictName": "Bargarh",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 370308,
+    "SUM(I6000_11)": 1481255,
+    "SUM(I6000_13)": 732094
+  },
+  {
+    "DistrictName": "Barmer",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 451629,
+    "SUM(I6000_11)": 2603751,
+    "SUM(I6000_13)": 1234729
+  },
+  {
+    "DistrictName": "Barnala",
+    "StateName": "Punjab",
+    "Year": "2011",
+    "SUM(I6000_10)": 115798,
+    "SUM(I6000_11)": 595527,
+    "SUM(I6000_13)": 278005
+  },
+  {
+    "DistrictName": "Barpeta",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 338311,
+    "SUM(I6000_11)": 1695424,
+    "SUM(I6000_13)": 827522
+  },
+  {
+    "DistrictName": "Barwani",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 243277,
+    "SUM(I6000_11)": 1385881,
+    "SUM(I6000_13)": 686541
+  },
+  {
+    "DistrictName": "Bastar",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 185174,
+    "SUM(I6000_11)": 813093,
+    "SUM(I6000_13)": 409792
+  },
+  {
+    "DistrictName": "Basti",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 382212,
+    "SUM(I6000_11)": 2464464,
+    "SUM(I6000_13)": 1209192
+  },
+  {
+    "DistrictName": "Bathinda",
+    "StateName": "Punjab",
+    "Year": "2011",
+    "SUM(I6000_10)": 273902,
+    "SUM(I6000_11)": 1388525,
+    "SUM(I6000_13)": 645328
+  },
+  {
+    "DistrictName": "Beed",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 535496,
+    "SUM(I6000_11)": 2583421,
+    "SUM(I6000_13)": 1235146
+  },
+  {
+    "DistrictName": "Begusarai",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 589667,
+    "SUM(I6000_11)": 2970541,
+    "SUM(I6000_13)": 1402881
+  },
+  {
+    "DistrictName": "Belagavi",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 983854,
+    "SUM(I6000_11)": 4779661,
+    "SUM(I6000_13)": 2356598
+  },
+  {
+    "DistrictName": "Bemetara",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 158768,
+    "SUM(I6000_11)": 795759,
+    "SUM(I6000_13)": 398109
+  },
+  {
+    "DistrictName": "Bengaluru Rural",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 286178,
+    "SUM(I6000_11)": 1281006,
+    "SUM(I6000_13)": 625651
+  },
+  {
+    "DistrictName": "Bengaluru Urban",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 2393845,
+    "SUM(I6000_11)": 9621551,
+    "SUM(I6000_13)": 4598890
+  },
+  {
+    "DistrictName": "Betul",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 329832,
+    "SUM(I6000_11)": 1575362,
+    "SUM(I6000_13)": 776126
+  },
+  {
+    "DistrictName": "Bhadohi",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 222403,
+    "SUM(I6000_11)": 1578213,
+    "SUM(I6000_13)": 771114
+  },
+  {
+    "DistrictName": "Bhadradri Kothagudem",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 279190,
+    "SUM(I6000_11)": 1069261,
+    "SUM(I6000_13)": 536871
+  },
+  {
+    "DistrictName": "Bhadrak",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 306333,
+    "SUM(I6000_11)": 1506337,
+    "SUM(I6000_13)": 746077
+  },
+  {
+    "DistrictName": "Bhagalpur",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 567265,
+    "SUM(I6000_11)": 3050971,
+    "SUM(I6000_13)": 1428264
+  },
+  {
+    "DistrictName": "Bhandara",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 278076,
+    "SUM(I6000_11)": 1200334,
+    "SUM(I6000_13)": 594814
+  },
+  {
+    "DistrictName": "Bharatpur",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 425414,
+    "SUM(I6000_11)": 2548462,
+    "SUM(I6000_13)": 1192736
+  },
+  {
+    "DistrictName": "Bharuch",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 333483,
+    "SUM(I6000_11)": 1551019,
+    "SUM(I6000_13)": 745312
+  },
+  {
+    "DistrictName": "Bhavnagar",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 449825,
+    "SUM(I6000_11)": 2401917,
+    "SUM(I6000_13)": 1157438
+  },
+  {
+    "DistrictName": "Bhilwara",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 492454,
+    "SUM(I6000_11)": 2378203,
+    "SUM(I6000_13)": 1172746
+  },
+  {
+    "DistrictName": "Bhind",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 299233,
+    "SUM(I6000_11)": 1703005,
+    "SUM(I6000_13)": 776162
+  },
+  {
+    "DistrictName": "Bhiwani",
+    "StateName": "Haryana",
+    "Year": "2011",
+    "SUM(I6000_10)": 215501,
+    "SUM(I6000_11)": 1132169,
+    "SUM(I6000_13)": 531446
+  },
+  {
+    "DistrictName": "Bhojpur",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 416090,
+    "SUM(I6000_11)": 2728407,
+    "SUM(I6000_13)": 1298027
+  },
+  {
+    "DistrictName": "Bhopal",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 501805,
+    "SUM(I6000_11)": 2371061,
+    "SUM(I6000_13)": 1134931
+  },
+  {
+    "DistrictName": "Bidar",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 319937,
+    "SUM(I6000_11)": 1703300,
+    "SUM(I6000_13)": 832635
+  },
+  {
+    "DistrictName": "Bijapur",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 54757,
+    "SUM(I6000_11)": 255230,
+    "SUM(I6000_13)": 126567
+  },
+  {
+    "DistrictName": "Bijnor",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 633197,
+    "SUM(I6000_11)": 3682713,
+    "SUM(I6000_13)": 1761498
+  },
+  {
+    "DistrictName": "Bikaner",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 385009,
+    "SUM(I6000_11)": 2364230,
+    "SUM(I6000_13)": 1123266
+  },
+  {
+    "DistrictName": "Bilaspur",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 355376,
+    "SUM(I6000_11)": 1625502,
+    "SUM(I6000_13)": 797875
+  },
+  {
+    "DistrictName": "Bilaspur",
+    "StateName": "Himachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 80485,
+    "SUM(I6000_11)": 381956,
+    "SUM(I6000_13)": 189192
+  },
+  {
+    "DistrictName": "Birbhum",
+    "StateName": "West Bengal",
+    "Year": "2011",
+    "SUM(I6000_10)": 817899,
+    "SUM(I6000_11)": 3502404,
+    "SUM(I6000_13)": 1711484
+  },
+  {
+    "DistrictName": "Bishnupur",
+    "StateName": "Manipur",
+    "Year": "2011",
+    "SUM(I6000_10)": 46580,
+    "SUM(I6000_11)": 237399,
+    "SUM(I6000_13)": 118617
+  },
+  {
+    "DistrictName": "Biswanath",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 148301,
+    "SUM(I6000_11)": 734100,
+    "SUM(I6000_13)": 361233
+  },
+  {
+    "DistrictName": "Bokaro",
+    "StateName": "Jharkhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 394918,
+    "SUM(I6000_11)": 2062330,
+    "SUM(I6000_13)": 989523
+  },
+  {
+    "DistrictName": "Bongaigaon",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 132166,
+    "SUM(I6000_11)": 660422,
+    "SUM(I6000_13)": 324754
+  },
+  {
+    "DistrictName": "Botad",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 121238,
+    "SUM(I6000_11)": 653814,
+    "SUM(I6000_13)": 317783
+  },
+  {
+    "DistrictName": "Boudh",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 106961,
+    "SUM(I6000_11)": 441162,
+    "SUM(I6000_13)": 219537
+  },
+  {
+    "DistrictName": "Budaun",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 524740,
+    "SUM(I6000_11)": 3127621,
+    "SUM(I6000_13)": 1457266
+  },
+  {
+    "DistrictName": "Budgam",
+    "StateName": "Jammu And Kashmir",
+    "Year": "2011",
+    "SUM(I6000_10)": 102063,
+    "SUM(I6000_11)": 744234,
+    "SUM(I6000_13)": 351055
+  },
+  {
+    "DistrictName": "Bulandshahr",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 587529,
+    "SUM(I6000_11)": 3499171,
+    "SUM(I6000_13)": 1653911
+  },
+  {
+    "DistrictName": "Buldhana",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 561504,
+    "SUM(I6000_11)": 2586258,
+    "SUM(I6000_13)": 1248698
+  },
+  {
+    "DistrictName": "Bundi",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 220768,
+    "SUM(I6000_11)": 1110906,
+    "SUM(I6000_13)": 533746
+  },
+  {
+    "DistrictName": "Burhanpur",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 149203,
+    "SUM(I6000_11)": 771448,
+    "SUM(I6000_13)": 375888
+  },
+  {
+    "DistrictName": "Buxar",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 261660,
+    "SUM(I6000_11)": 1706352,
+    "SUM(I6000_13)": 818375
+  },
+  {
+    "DistrictName": "Cachar",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 392189,
+    "SUM(I6000_11)": 1793471,
+    "SUM(I6000_13)": 878714
+  },
+  {
+    "DistrictName": "Central",
+    "StateName": "Delhi",
+    "Year": "2011",
+    "SUM(I6000_10)": 174597,
+    "SUM(I6000_11)": 866464,
+    "SUM(I6000_13)": 406476
+  },
+  {
+    "DistrictName": "Chamarajanagara",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 244874,
+    "SUM(I6000_11)": 1020791,
+    "SUM(I6000_13)": 508560
+  },
+  {
+    "DistrictName": "Chamba",
+    "StateName": "Himachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 102460,
+    "SUM(I6000_11)": 519080,
+    "SUM(I6000_13)": 257760
+  },
+  {
+    "DistrictName": "Chamoli",
+    "StateName": "Uttarakhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 88964,
+    "SUM(I6000_11)": 391605,
+    "SUM(I6000_13)": 197614
+  },
+  {
+    "DistrictName": "Champawat",
+    "StateName": "Uttarakhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 53953,
+    "SUM(I6000_11)": 259648,
+    "SUM(I6000_13)": 128523
+  },
+  {
+    "DistrictName": "Champhai",
+    "StateName": "Mizoram",
+    "Year": "2011",
+    "SUM(I6000_10)": 14657,
+    "SUM(I6000_11)": 72365,
+    "SUM(I6000_13)": 36077
+  },
+  {
+    "DistrictName": "Chandauli",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 296804,
+    "SUM(I6000_11)": 1952756,
+    "SUM(I6000_13)": 934851
+  },
+  {
+    "DistrictName": "Chandel",
+    "StateName": "Manipur",
+    "Year": "2011",
+    "SUM(I6000_10)": 16453,
+    "SUM(I6000_11)": 84842,
+    "SUM(I6000_13)": 40685
+  },
+  {
+    "DistrictName": "Chandigarh",
+    "StateName": "Chandigarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 241173,
+    "SUM(I6000_11)": 1055450,
+    "SUM(I6000_13)": 474787
+  },
+  {
+    "DistrictName": "Chandrapur",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 536686,
+    "SUM(I6000_11)": 2204307,
+    "SUM(I6000_13)": 1080473
+  },
+  {
+    "DistrictName": "Changlang",
+    "StateName": "Arunachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 31766,
+    "SUM(I6000_11)": 159386,
+    "SUM(I6000_13)": 77731
+  },
+  {
+    "DistrictName": "Charaideo",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 92090,
+    "SUM(I6000_11)": 437015,
+    "SUM(I6000_13)": 213452
+  },
+  {
+    "DistrictName": "Charki Dadri",
+    "StateName": "Haryana",
+    "Year": "2011",
+    "SUM(I6000_10)": 95879,
+    "SUM(I6000_11)": 502276,
+    "SUM(I6000_13)": 236327
+  },
+  {
+    "DistrictName": "Chatra",
+    "StateName": "Jharkhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 182271,
+    "SUM(I6000_11)": 1042886,
+    "SUM(I6000_13)": 508951
+  },
+  {
+    "DistrictName": "Chengalpattu",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 549150,
+    "SUM(I6000_11)": 2179455,
+    "SUM(I6000_13)": 1082524
+  },
+  {
+    "DistrictName": "Chennai",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 1664245,
+    "SUM(I6000_11)": 6634954,
+    "SUM(I6000_13)": 3295590
+  },
+  {
+    "DistrictName": "Chhatarpur",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 356297,
+    "SUM(I6000_11)": 1762375,
+    "SUM(I6000_13)": 826254
+  },
+  {
+    "DistrictName": "Chhindwara",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 445725,
+    "SUM(I6000_11)": 2101349,
+    "SUM(I6000_13)": 1031545
+  },
+  {
+    "DistrictName": "Chhotaudepur",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 200614,
+    "SUM(I6000_11)": 1071831,
+    "SUM(I6000_13)": 526982
+  },
+  {
+    "DistrictName": "Chikkaballapura",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 284698,
+    "SUM(I6000_11)": 1255104,
+    "SUM(I6000_13)": 618667
+  },
+  {
+    "DistrictName": "Chikkamagaluru",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 276085,
+    "SUM(I6000_11)": 1137961,
+    "SUM(I6000_13)": 571339
+  },
+  {
+    "DistrictName": "Chirang",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 99646,
+    "SUM(I6000_11)": 491420,
+    "SUM(I6000_13)": 241709
+  },
+  {
+    "DistrictName": "Chitradurga",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 357003,
+    "SUM(I6000_11)": 1659456,
+    "SUM(I6000_13)": 818613
+  },
+  {
+    "DistrictName": "Chitrakoot",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 168232,
+    "SUM(I6000_11)": 991730,
+    "SUM(I6000_13)": 464009
+  },
+  {
+    "DistrictName": "Chittoor",
+    "StateName": "Andhra Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 1039953,
+    "SUM(I6000_11)": 4174064,
+    "SUM(I6000_13)": 2083860
+  },
+  {
+    "DistrictName": "Chittorgarh",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 329119,
+    "SUM(I6000_11)": 1544338,
+    "SUM(I6000_13)": 761167
+  },
+  {
+    "DistrictName": "Churachandpur",
+    "StateName": "Manipur",
+    "Year": "2011",
+    "SUM(I6000_10)": 42237,
+    "SUM(I6000_11)": 233753,
+    "SUM(I6000_13)": 115359
+  },
+  {
+    "DistrictName": "Churu",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 353631,
+    "SUM(I6000_11)": 2066178,
+    "SUM(I6000_13)": 1000753
+  },
+  {
+    "DistrictName": "Coimbatore",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 959899,
+    "SUM(I6000_11)": 3470735,
+    "SUM(I6000_13)": 1735777
+  },
+  {
+    "DistrictName": "Coochbehar",
+    "StateName": "West Bengal",
+    "Year": "2011",
+    "SUM(I6000_10)": 665720,
+    "SUM(I6000_11)": 2819086,
+    "SUM(I6000_13)": 1367544
+  },
+  {
+    "DistrictName": "Cuddalore",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 635578,
+    "SUM(I6000_11)": 2605914,
+    "SUM(I6000_13)": 1294217
+  },
+  {
+    "DistrictName": "Cuttack",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 579260,
+    "SUM(I6000_11)": 2624901,
+    "SUM(I6000_13)": 1271931
+  },
+  {
+    "DistrictName": "Dadra And Nagar Haveli",
+    "StateName": "The Dadra And Nagar Haveli And Daman And Diu",
+    "Year": "2011",
+    "SUM(I6000_10)": 76458,
+    "SUM(I6000_11)": 343709,
+    "SUM(I6000_13)": 149949
+  },
+  {
+    "DistrictName": "Dakshina Kannada",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 439733,
+    "SUM(I6000_11)": 2089649,
+    "SUM(I6000_13)": 1054935
+  },
+  {
+    "DistrictName": "Daman",
+    "StateName": "The Dadra And Nagar Haveli And Daman And Diu",
+    "Year": "2011",
+    "SUM(I6000_10)": 50376,
+    "SUM(I6000_11)": 191173,
+    "SUM(I6000_13)": 66514
+  },
+  {
+    "DistrictName": "Damoh",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 297608,
+    "SUM(I6000_11)": 1264219,
+    "SUM(I6000_13)": 602346
+  },
+  {
+    "DistrictName": "Dang",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 44699,
+    "SUM(I6000_11)": 228291,
+    "SUM(I6000_13)": 114470
+  },
+  {
+    "DistrictName": "Dantewada",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 65176,
+    "SUM(I6000_11)": 283479,
+    "SUM(I6000_13)": 143385
+  },
+  {
+    "DistrictName": "Darbhanga",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 803811,
+    "SUM(I6000_11)": 3941690,
+    "SUM(I6000_13)": 1879417
+  },
+  {
+    "DistrictName": "Darjeeling",
+    "StateName": "West Bengal",
+    "Year": "2011",
+    "SUM(I6000_10)": 350042,
+    "SUM(I6000_11)": 1644584,
+    "SUM(I6000_13)": 810675
+  },
+  {
+    "DistrictName": "Darrang",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 179253,
+    "SUM(I6000_11)": 883376,
+    "SUM(I6000_13)": 431196
+  },
+  {
+    "DistrictName": "Datia",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 163740,
+    "SUM(I6000_11)": 804546,
+    "SUM(I6000_13)": 374613
+  },
+  {
+    "DistrictName": "Dausa",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 292502,
+    "SUM(I6000_11)": 1634409,
+    "SUM(I6000_13)": 776622
+  },
+  {
+    "DistrictName": "Davangere",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 351615,
+    "SUM(I6000_11)": 1643494,
+    "SUM(I6000_13)": 811383
+  },
+  {
+    "DistrictName": "Dehradun",
+    "StateName": "Uttarakhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 347001,
+    "SUM(I6000_11)": 1696694,
+    "SUM(I6000_13)": 804495
+  },
+  {
+    "DistrictName": "Deogarh",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 75223,
+    "SUM(I6000_11)": 311624,
+    "SUM(I6000_13)": 153840
+  },
+  {
+    "DistrictName": "Deoghar",
+    "StateName": "Jharkhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 264347,
+    "SUM(I6000_11)": 1492073,
+    "SUM(I6000_13)": 717051
+  },
+  {
+    "DistrictName": "Deoria",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 468346,
+    "SUM(I6000_11)": 3100946,
+    "SUM(I6000_13)": 1563510
+  },
+  {
+    "DistrictName": "Devbhumi Dwarka",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 138480,
+    "SUM(I6000_11)": 728450,
+    "SUM(I6000_13)": 354013
+  },
+  {
+    "DistrictName": "Dewas",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 308871,
+    "SUM(I6000_11)": 1563715,
+    "SUM(I6000_13)": 758356
+  },
+  {
+    "DistrictName": "Dhalai",
+    "StateName": "Tripura",
+    "Year": "2011",
+    "SUM(I6000_10)": 84039,
+    "SUM(I6000_11)": 375894,
+    "SUM(I6000_13)": 182537
+  },
+  {
+    "DistrictName": "Dhamtari",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 170951,
+    "SUM(I6000_11)": 799781,
+    "SUM(I6000_13)": 401884
+  },
+  {
+    "DistrictName": "Dhanbad",
+    "StateName": "Jharkhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 507064,
+    "SUM(I6000_11)": 2684487,
+    "SUM(I6000_13)": 1278531
+  },
+  {
+    "DistrictName": "Dhar",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 425914,
+    "SUM(I6000_11)": 2185793,
+    "SUM(I6000_13)": 1073068
+  },
+  {
+    "DistrictName": "Dharmapuri",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 375873,
+    "SUM(I6000_11)": 1506843,
+    "SUM(I6000_13)": 732540
+  },
+  {
+    "DistrictName": "Dharwad",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 382700,
+    "SUM(I6000_11)": 1847023,
+    "SUM(I6000_13)": 909817
+  },
+  {
+    "DistrictName": "Dhemaji",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 128361,
+    "SUM(I6000_11)": 679046,
+    "SUM(I6000_13)": 331524
+  },
+  {
+    "DistrictName": "Dhenkanal",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 279816,
+    "SUM(I6000_11)": 1195207,
+    "SUM(I6000_13)": 581415
+  },
+  {
+    "DistrictName": "Dholpur",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 203754,
+    "SUM(I6000_11)": 1206516,
+    "SUM(I6000_13)": 552869
+  },
+  {
+    "DistrictName": "Dhubri",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 304613,
+    "SUM(I6000_11)": 1465540,
+    "SUM(I6000_13)": 713792
+  },
+  {
+    "DistrictName": "Dhule",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 408874,
+    "SUM(I6000_11)": 2050862,
+    "SUM(I6000_13)": 996831
+  },
+  {
+    "DistrictName": "Dibang Valley",
+    "StateName": "Arunachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 3450,
+    "SUM(I6000_11)": 14240,
+    "SUM(I6000_13)": 6319
+  },
+  {
+    "DistrictName": "Dibrugarh",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 276867,
+    "SUM(I6000_11)": 1326335,
+    "SUM(I6000_13)": 649901
+  },
+  {
+    "DistrictName": "Dima Hasao",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 39851,
+    "SUM(I6000_11)": 203726,
+    "SUM(I6000_13)": 98499
+  },
+  {
+    "DistrictName": "Dimapur",
+    "StateName": "Nagaland",
+    "Year": "2011",
+    "SUM(I6000_10)": 78676,
+    "SUM(I6000_11)": 379097,
+    "SUM(I6000_13)": 181555
+  },
+  {
+    "DistrictName": "Dinajpur Dakshin",
+    "StateName": "West Bengal",
+    "Year": "2011",
+    "SUM(I6000_10)": 396406,
+    "SUM(I6000_11)": 1676276,
+    "SUM(I6000_13)": 819077
+  },
+  {
+    "DistrictName": "Dinajpur Uttar",
+    "StateName": "West Bengal",
+    "Year": "2011",
+    "SUM(I6000_10)": 605674,
+    "SUM(I6000_11)": 3007134,
+    "SUM(I6000_13)": 1456068
+  },
+  {
+    "DistrictName": "Dindigul",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 560802,
+    "SUM(I6000_11)": 2159888,
+    "SUM(I6000_13)": 1078897
+  },
+  {
+    "DistrictName": "Dindori",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 172395,
+    "SUM(I6000_11)": 718192,
+    "SUM(I6000_13)": 359127
+  },
+  {
+    "DistrictName": "Diu",
+    "StateName": "The Dadra And Nagar Haveli And Daman And Diu",
+    "Year": "2011",
+    "SUM(I6000_10)": 10580,
+    "SUM(I6000_11)": 52074,
+    "SUM(I6000_13)": 26432
+  },
+  {
+    "DistrictName": "Doda",
+    "StateName": "Jammu And Kashmir",
+    "Year": "2011",
+    "SUM(I6000_10)": 79636,
+    "SUM(I6000_11)": 409936,
+    "SUM(I6000_13)": 196295
+  },
+  {
+    "DistrictName": "Dohad",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 334272,
+    "SUM(I6000_11)": 2127086,
+    "SUM(I6000_13)": 1058435
+  },
+  {
+    "DistrictName": "Dumka",
+    "StateName": "Jharkhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 275019,
+    "SUM(I6000_11)": 1321442,
+    "SUM(I6000_13)": 652928
+  },
+  {
+    "DistrictName": "Dungarpur",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 282029,
+    "SUM(I6000_11)": 1388552,
+    "SUM(I6000_13)": 692020
+  },
+  {
+    "DistrictName": "Durg",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 367470,
+    "SUM(I6000_11)": 1721948,
+    "SUM(I6000_13)": 846135
+  },
+  {
+    "DistrictName": "East",
+    "StateName": "Delhi",
+    "Year": "2011",
+    "SUM(I6000_10)": 90155,
+    "SUM(I6000_11)": 423082,
+    "SUM(I6000_13)": 198222
+  },
+  {
+    "DistrictName": "East District",
+    "StateName": "Sikkim",
+    "Year": "2011",
+    "SUM(I6000_10)": 60477,
+    "SUM(I6000_11)": 277988,
+    "SUM(I6000_13)": 129911
+  },
+  {
+    "DistrictName": "East Garo Hills",
+    "StateName": "Meghalaya",
+    "Year": "2011",
+    "SUM(I6000_10)": 26608,
+    "SUM(I6000_11)": 145912,
+    "SUM(I6000_13)": 71507
+  },
+  {
+    "DistrictName": "East Godavari",
+    "StateName": "Andhra Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 1465351,
+    "SUM(I6000_11)": 5285824,
+    "SUM(I6000_13)": 2652520
+  },
+  {
+    "DistrictName": "East Jaintia Hills",
+    "StateName": "Meghalaya",
+    "Year": "2011",
+    "SUM(I6000_10)": 20756,
+    "SUM(I6000_11)": 122939,
+    "SUM(I6000_13)": 61706
+  },
+  {
+    "DistrictName": "East Kameng",
+    "StateName": "Arunachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 12350,
+    "SUM(I6000_11)": 66592,
+    "SUM(I6000_13)": 33774
+  },
+  {
+    "DistrictName": "East Khasi Hills",
+    "StateName": "Meghalaya",
+    "Year": "2011",
+    "SUM(I6000_10)": 164046,
+    "SUM(I6000_11)": 825922,
+    "SUM(I6000_13)": 415173
+  },
+  {
+    "DistrictName": "East Nimar",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 266655,
+    "SUM(I6000_11)": 1310061,
+    "SUM(I6000_13)": 635732
+  },
+  {
+    "DistrictName": "East Siang",
+    "StateName": "Arunachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 13173,
+    "SUM(I6000_11)": 68498,
+    "SUM(I6000_13)": 33240
+  },
+  {
+    "DistrictName": "East Singhbum",
+    "StateName": "Jharkhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 476931,
+    "SUM(I6000_11)": 2293919,
+    "SUM(I6000_13)": 1117017
+  },
+  {
+    "DistrictName": "Ernakulam",
+    "StateName": "Kerala",
+    "Year": "2011",
+    "SUM(I6000_10)": 814011,
+    "SUM(I6000_11)": 3282388,
+    "SUM(I6000_13)": 1662831
+  },
+  {
+    "DistrictName": "Erode",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 654260,
+    "SUM(I6000_11)": 2240200,
+    "SUM(I6000_13)": 1115963
+  },
+  {
+    "DistrictName": "Etah",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 290683,
+    "SUM(I6000_11)": 1774480,
+    "SUM(I6000_13)": 827141
+  },
+  {
+    "DistrictName": "Etawah",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 277527,
+    "SUM(I6000_11)": 1581810,
+    "SUM(I6000_13)": 735954
+  },
+  {
+    "DistrictName": "Faridabad",
+    "StateName": "Haryana",
+    "Year": "2011",
+    "SUM(I6000_10)": 358919,
+    "SUM(I6000_11)": 1809733,
+    "SUM(I6000_13)": 843623
+  },
+  {
+    "DistrictName": "Faridkot",
+    "StateName": "Punjab",
+    "Year": "2011",
+    "SUM(I6000_10)": 120893,
+    "SUM(I6000_11)": 617508,
+    "SUM(I6000_13)": 290837
+  },
+  {
+    "DistrictName": "Farrukhabad",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 314144,
+    "SUM(I6000_11)": 1885204,
+    "SUM(I6000_13)": 878964
+  },
+  {
+    "DistrictName": "Fatehabad",
+    "StateName": "Haryana",
+    "Year": "2011",
+    "SUM(I6000_10)": 180637,
+    "SUM(I6000_11)": 942011,
+    "SUM(I6000_13)": 446651
+  },
+  {
+    "DistrictName": "Fatehgarh Sahib",
+    "StateName": "Punjab",
+    "Year": "2011",
+    "SUM(I6000_10)": 118002,
+    "SUM(I6000_11)": 599639,
+    "SUM(I6000_13)": 279116
+  },
+  {
+    "DistrictName": "Fatehpur",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 472238,
+    "SUM(I6000_11)": 2632733,
+    "SUM(I6000_13)": 1248011
+  },
+  {
+    "DistrictName": "Fazilka",
+    "StateName": "Punjab",
+    "Year": "2011",
+    "SUM(I6000_10)": 203714,
+    "SUM(I6000_11)": 1063737,
+    "SUM(I6000_13)": 502096
+  },
+  {
+    "DistrictName": "Ferozepur",
+    "StateName": "Punjab",
+    "Year": "2011",
+    "SUM(I6000_10)": 182231,
+    "SUM(I6000_11)": 965053,
+    "SUM(I6000_13)": 455212
+  },
+  {
+    "DistrictName": "Firozabad",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 414266,
+    "SUM(I6000_11)": 2498156,
+    "SUM(I6000_13)": 1166110
+  },
+  {
+    "DistrictName": "Gadag",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 219096,
+    "SUM(I6000_11)": 1064570,
+    "SUM(I6000_13)": 527423
+  },
+  {
+    "DistrictName": "Gadchiroli",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 250435,
+    "SUM(I6000_11)": 1072942,
+    "SUM(I6000_13)": 531614
+  },
+  {
+    "DistrictName": "Gajapati",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 128523,
+    "SUM(I6000_11)": 577817,
+    "SUM(I6000_13)": 294935
+  },
+  {
+    "DistrictName": "Ganderbal",
+    "StateName": "Jammu And Kashmir",
+    "Year": "2011",
+    "SUM(I6000_10)": 45361,
+    "SUM(I6000_11)": 297446,
+    "SUM(I6000_13)": 138726
+  },
+  {
+    "DistrictName": "Gandhinagar",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 290697,
+    "SUM(I6000_11)": 1395144,
+    "SUM(I6000_13)": 669567
+  },
+  {
+    "DistrictName": "Ganganagar",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 387446,
+    "SUM(I6000_11)": 1968875,
+    "SUM(I6000_13)": 925698
+  },
+  {
+    "DistrictName": "Ganjam",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 758267,
+    "SUM(I6000_11)": 3529031,
+    "SUM(I6000_13)": 1749813
+  },
+  {
+    "DistrictName": "Garhwa",
+    "StateName": "Jharkhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 254697,
+    "SUM(I6000_11)": 1322784,
+    "SUM(I6000_13)": 639209
+  },
+  {
+    "DistrictName": "Gariyaband",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 147546,
+    "SUM(I6000_11)": 597653,
+    "SUM(I6000_13)": 301802
+  },
+  {
+    "DistrictName": "Gaurella Pendra Marwahi",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 87729,
+    "SUM(I6000_11)": 336420,
+    "SUM(I6000_13)": 167922
+  },
+  {
+    "DistrictName": "Gautam Buddha Nagar",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 327090,
+    "SUM(I6000_11)": 1648115,
+    "SUM(I6000_13)": 757901
+  },
+  {
+    "DistrictName": "Gaya",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 688425,
+    "SUM(I6000_11)": 4391418,
+    "SUM(I6000_13)": 2124852
+  },
+  {
+    "DistrictName": "Ghaziabad",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 628428,
+    "SUM(I6000_11)": 3343334,
+    "SUM(I6000_13)": 1563410
+  },
+  {
+    "DistrictName": "Ghazipur",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 546664,
+    "SUM(I6000_11)": 3620268,
+    "SUM(I6000_13)": 1765193
+  },
+  {
+    "DistrictName": "Giridih",
+    "StateName": "Jharkhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 396521,
+    "SUM(I6000_11)": 2445474,
+    "SUM(I6000_13)": 1187376
+  },
+  {
+    "DistrictName": "Gir Somnath",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 214924,
+    "SUM(I6000_11)": 1210749,
+    "SUM(I6000_13)": 594185
+  },
+  {
+    "DistrictName": "Goalpara",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 198454,
+    "SUM(I6000_11)": 1008183,
+    "SUM(I6000_13)": 494891
+  },
+  {
+    "DistrictName": "Godda",
+    "StateName": "Jharkhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 253648,
+    "SUM(I6000_11)": 1313551,
+    "SUM(I6000_13)": 635624
+  },
+  {
+    "DistrictName": "Golaghat",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 230595,
+    "SUM(I6000_11)": 1084751,
+    "SUM(I6000_13)": 532566
+  },
+  {
+    "DistrictName": "Gomati",
+    "StateName": "Tripura",
+    "Year": "2011",
+    "SUM(I6000_10)": 103914,
+    "SUM(I6000_11)": 447586,
+    "SUM(I6000_13)": 219017
+  },
+  {
+    "DistrictName": "Gonda",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 541247,
+    "SUM(I6000_11)": 3433919,
+    "SUM(I6000_13)": 1646773
+  },
+  {
+    "DistrictName": "Gondia",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 292369,
+    "SUM(I6000_11)": 1322507,
+    "SUM(I6000_13)": 660953
+  },
+  {
+    "DistrictName": "Gopalganj",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 413044,
+    "SUM(I6000_11)": 2562012,
+    "SUM(I6000_13)": 1294346
+  },
+  {
+    "DistrictName": "Gorakhpur",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 692841,
+    "SUM(I6000_11)": 4439910,
+    "SUM(I6000_13)": 2162620
+  },
+  {
+    "DistrictName": "Gumla",
+    "StateName": "Jharkhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 188988,
+    "SUM(I6000_11)": 1025213,
+    "SUM(I6000_13)": 510823
+  },
+  {
+    "DistrictName": "Guna",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 244401,
+    "SUM(I6000_11)": 1241519,
+    "SUM(I6000_13)": 592157
+  },
+  {
+    "DistrictName": "Guntur",
+    "StateName": "Andhra Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 1296609,
+    "SUM(I6000_11)": 4887813,
+    "SUM(I6000_13)": 2447292
+  },
+  {
+    "DistrictName": "Gurdaspur",
+    "StateName": "Punjab",
+    "Year": "2011",
+    "SUM(I6000_10)": 309107,
+    "SUM(I6000_11)": 1621725,
+    "SUM(I6000_13)": 771110
+  },
+  {
+    "DistrictName": "Gurugram",
+    "StateName": "Haryana",
+    "Year": "2011",
+    "SUM(I6000_10)": 326428,
+    "SUM(I6000_11)": 1514432,
+    "SUM(I6000_13)": 697742
+  },
+  {
+    "DistrictName": "Gwalior",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 386445,
+    "SUM(I6000_11)": 2046892,
+    "SUM(I6000_13)": 948727
+  },
+  {
+    "DistrictName": "Hailakandi",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 158569,
+    "SUM(I6000_11)": 726618,
+    "SUM(I6000_13)": 354327
+  },
+  {
+    "DistrictName": "Hamirpur",
+    "StateName": "Himachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 105519,
+    "SUM(I6000_11)": 454768,
+    "SUM(I6000_13)": 237698
+  },
+  {
+    "DistrictName": "Hamirpur",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 204863,
+    "SUM(I6000_11)": 1104285,
+    "SUM(I6000_13)": 510748
+  },
+  {
+    "DistrictName": "Hanumakonda",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 237398,
+    "SUM(I6000_11)": 935621,
+    "SUM(I6000_13)": 466760
+  },
+  {
+    "DistrictName": "Hanumangarh",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 336192,
+    "SUM(I6000_11)": 1774692,
+    "SUM(I6000_13)": 843508
+  },
+  {
+    "DistrictName": "Hapur",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 222248,
+    "SUM(I6000_11)": 1338311,
+    "SUM(I6000_13)": 629401
+  },
+  {
+    "DistrictName": "Harda",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 113379,
+    "SUM(I6000_11)": 570465,
+    "SUM(I6000_13)": 275627
+  },
+  {
+    "DistrictName": "Hardoi",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 730442,
+    "SUM(I6000_11)": 4092845,
+    "SUM(I6000_13)": 1901403
+  },
+  {
+    "DistrictName": "Haridwar",
+    "StateName": "Uttarakhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 338104,
+    "SUM(I6000_11)": 1890422,
+    "SUM(I6000_13)": 885127
+  },
+  {
+    "DistrictName": "Hassan",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 433453,
+    "SUM(I6000_11)": 1776421,
+    "SUM(I6000_13)": 892754
+  },
+  {
+    "DistrictName": "Hathras",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 260860,
+    "SUM(I6000_11)": 1564708,
+    "SUM(I6000_13)": 728581
+  },
+  {
+    "DistrictName": "Haveri",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 330414,
+    "SUM(I6000_11)": 1597668,
+    "SUM(I6000_13)": 778540
+  },
+  {
+    "DistrictName": "Hazaribagh",
+    "StateName": "Jharkhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 304749,
+    "SUM(I6000_11)": 1734495,
+    "SUM(I6000_13)": 843614
+  },
+  {
+    "DistrictName": "Hingoli",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 228868,
+    "SUM(I6000_11)": 1177345,
+    "SUM(I6000_13)": 571051
+  },
+  {
+    "DistrictName": "Hisar",
+    "StateName": "Haryana",
+    "Year": "2011",
+    "SUM(I6000_10)": 335608,
+    "SUM(I6000_11)": 1743931,
+    "SUM(I6000_13)": 812369
+  },
+  {
+    "DistrictName": "Hnahthial",
+    "StateName": "Mizoram",
+    "Year": "2011",
+    "SUM(I6000_10)": 5853,
+    "SUM(I6000_11)": 28488,
+    "SUM(I6000_13)": 14266
+  },
+  {
+    "DistrictName": "Hojai",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 176788,
+    "SUM(I6000_11)": 931218,
+    "SUM(I6000_13)": 454738
+  },
+  {
+    "DistrictName": "Hooghly",
+    "StateName": "West Bengal",
+    "Year": "2011",
+    "SUM(I6000_10)": 1287148,
+    "SUM(I6000_11)": 5517734,
+    "SUM(I6000_13)": 2703790
+  },
+  {
+    "DistrictName": "Hoshangabad",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 257199,
+    "SUM(I6000_11)": 1241350,
+    "SUM(I6000_13)": 592625
+  },
+  {
+    "DistrictName": "Hoshiarpur",
+    "StateName": "Punjab",
+    "Year": "2011",
+    "SUM(I6000_10)": 336994,
+    "SUM(I6000_11)": 1586625,
+    "SUM(I6000_13)": 777568
+  },
+  {
+    "DistrictName": "Howrah",
+    "StateName": "West Bengal",
+    "Year": "2011",
+    "SUM(I6000_10)": 1061336,
+    "SUM(I6000_11)": 4850029,
+    "SUM(I6000_13)": 2349210
+  },
+  {
+    "DistrictName": "Hyderabad",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 849051,
+    "SUM(I6000_11)": 3943323,
+    "SUM(I6000_13)": 1924748
+  },
+  {
+    "DistrictName": "Idukki",
+    "StateName": "Kerala",
+    "Year": "2011",
+    "SUM(I6000_10)": 279812,
+    "SUM(I6000_11)": 1108974,
+    "SUM(I6000_13)": 556166
+  },
+  {
+    "DistrictName": "Imphal East",
+    "StateName": "Manipur",
+    "Year": "2011",
+    "SUM(I6000_10)": 81668,
+    "SUM(I6000_11)": 401649,
+    "SUM(I6000_13)": 203428
+  },
+  {
+    "DistrictName": "Imphal West",
+    "StateName": "Manipur",
+    "Year": "2011",
+    "SUM(I6000_10)": 111156,
+    "SUM(I6000_11)": 517992,
+    "SUM(I6000_13)": 262938
+  },
+  {
+    "DistrictName": "Indore",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 649540,
+    "SUM(I6000_11)": 3276697,
+    "SUM(I6000_13)": 1577070
+  },
+  {
+    "DistrictName": "Jabalpur",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 536198,
+    "SUM(I6000_11)": 2449688,
+    "SUM(I6000_13)": 1179466
+  },
+  {
+    "DistrictName": "Jagatsinghapur",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 261307,
+    "SUM(I6000_11)": 1136971,
+    "SUM(I6000_13)": 559106
+  },
+  {
+    "DistrictName": "Jagitial",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 253619,
+    "SUM(I6000_11)": 985417,
+    "SUM(I6000_13)": 501338
+  },
+  {
+    "DistrictName": "Jaipur",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 1177096,
+    "SUM(I6000_11)": 6626178,
+    "SUM(I6000_13)": 3157671
+  },
+  {
+    "DistrictName": "Jaisalmer",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 117171,
+    "SUM(I6000_11)": 669919,
+    "SUM(I6000_13)": 308211
+  },
+  {
+    "DistrictName": "Jajapur",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 407807,
+    "SUM(I6000_11)": 1826963,
+    "SUM(I6000_13)": 901043
+  },
+  {
+    "DistrictName": "Jalandhar",
+    "StateName": "Punjab",
+    "Year": "2011",
+    "SUM(I6000_10)": 461620,
+    "SUM(I6000_11)": 2193526,
+    "SUM(I6000_13)": 1048345
+  },
+  {
+    "DistrictName": "Jalaun",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 288338,
+    "SUM(I6000_11)": 1689974,
+    "SUM(I6000_13)": 783882
+  },
+  {
+    "DistrictName": "Jalgaon",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 903643,
+    "SUM(I6000_11)": 4229917,
+    "SUM(I6000_13)": 2032552
+  },
+  {
+    "DistrictName": "Jalna",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 390897,
+    "SUM(I6000_11)": 1954528,
+    "SUM(I6000_13)": 945398
+  },
+  {
+    "DistrictName": "Jalore",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 326134,
+    "SUM(I6000_11)": 1828730,
+    "SUM(I6000_13)": 892096
+  },
+  {
+    "DistrictName": "Jalpaiguri",
+    "StateName": "West Bengal",
+    "Year": "2011",
+    "SUM(I6000_10)": 533073,
+    "SUM(I6000_11)": 2381596,
+    "SUM(I6000_13)": 1164064
+  },
+  {
+    "DistrictName": "Jammu",
+    "StateName": "Jammu And Kashmir",
+    "Year": "2011",
+    "SUM(I6000_10)": 314199,
+    "SUM(I6000_11)": 1529958,
+    "SUM(I6000_13)": 716137
+  },
+  {
+    "DistrictName": "Jamnagar",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 287842,
+    "SUM(I6000_11)": 1409060,
+    "SUM(I6000_13)": 680805
+  },
+  {
+    "DistrictName": "Jamtara",
+    "StateName": "Jharkhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 155275,
+    "SUM(I6000_11)": 791042,
+    "SUM(I6000_13)": 386212
+  },
+  {
+    "DistrictName": "Jamui",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 307082,
+    "SUM(I6000_11)": 1760405,
+    "SUM(I6000_13)": 844341
+  },
+  {
+    "DistrictName": "Jangoan",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 131395,
+    "SUM(I6000_11)": 534991,
+    "SUM(I6000_13)": 267116
+  },
+  {
+    "DistrictName": "Janjgir-Champa",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 364532,
+    "SUM(I6000_11)": 1619707,
+    "SUM(I6000_13)": 803990
+  },
+  {
+    "DistrictName": "Jashpur",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 192570,
+    "SUM(I6000_11)": 851669,
+    "SUM(I6000_13)": 426922
+  },
+  {
+    "DistrictName": "Jaunpur",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 663513,
+    "SUM(I6000_11)": 4494204,
+    "SUM(I6000_13)": 2273739
+  },
+  {
+    "DistrictName": "Jayashankar Bhupalapally",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 111383,
+    "SUM(I6000_11)": 416763,
+    "SUM(I6000_13)": 208765
+  },
+  {
+    "DistrictName": "Jehanabad",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 181740,
+    "SUM(I6000_11)": 1125313,
+    "SUM(I6000_13)": 539731
+  },
+  {
+    "DistrictName": "Jhabua",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 194157,
+    "SUM(I6000_11)": 1025048,
+    "SUM(I6000_13)": 510025
+  },
+  {
+    "DistrictName": "Jhajjar",
+    "StateName": "Haryana",
+    "Year": "2011",
+    "SUM(I6000_10)": 185334,
+    "SUM(I6000_11)": 958405,
+    "SUM(I6000_13)": 443738
+  },
+  {
+    "DistrictName": "Jhalawar",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 283295,
+    "SUM(I6000_11)": 1411129,
+    "SUM(I6000_13)": 685986
+  },
+  {
+    "DistrictName": "Jhansi",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 367779,
+    "SUM(I6000_11)": 1998603,
+    "SUM(I6000_13)": 941167
+  },
+  {
+    "DistrictName": "Jhargram",
+    "StateName": "West Bengal",
+    "Year": "2011",
+    "SUM(I6000_10)": 240292,
+    "SUM(I6000_11)": 1074836,
+    "SUM(I6000_13)": 530965
+  },
+  {
+    "DistrictName": "Jharsuguda",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 136061,
+    "SUM(I6000_11)": 579505,
+    "SUM(I6000_13)": 282815
+  },
+  {
+    "DistrictName": "Jhunjhunu",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 384197,
+    "SUM(I6000_11)": 2137045,
+    "SUM(I6000_13)": 1041149
+  },
+  {
+    "DistrictName": "Jind",
+    "StateName": "Haryana",
+    "Year": "2011",
+    "SUM(I6000_10)": 246724,
+    "SUM(I6000_11)": 1317043,
+    "SUM(I6000_13)": 613027
+  },
+  {
+    "DistrictName": "Jiribam",
+    "StateName": "Manipur",
+    "Year": "2011",
+    "SUM(I6000_10)": 8355,
+    "SUM(I6000_11)": 43838,
+    "SUM(I6000_13)": 21299
+  },
+  {
+    "DistrictName": "Jodhpur",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 649013,
+    "SUM(I6000_11)": 3687165,
+    "SUM(I6000_13)": 1763237
+  },
+  {
+    "DistrictName": "Jogulamba Gadwal",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 132261,
+    "SUM(I6000_11)": 609990,
+    "SUM(I6000_13)": 300716
+  },
+  {
+    "DistrictName": "Jorhat",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 204026,
+    "SUM(I6000_11)": 924952,
+    "SUM(I6000_13)": 453713
+  },
+  {
+    "DistrictName": "Junagadh",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 311085,
+    "SUM(I6000_11)": 1525690,
+    "SUM(I6000_13)": 741256
+  },
+  {
+    "DistrictName": "Kabirdham",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 178446,
+    "SUM(I6000_11)": 822526,
+    "SUM(I6000_13)": 410468
+  },
+  {
+    "DistrictName": "Kachchh",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 445672,
+    "SUM(I6000_11)": 2092371,
+    "SUM(I6000_13)": 995634
+  },
+  {
+    "DistrictName": "Kaimur (Bhabua)",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 250884,
+    "SUM(I6000_11)": 1626384,
+    "SUM(I6000_13)": 779378
+  },
+  {
+    "DistrictName": "Kaithal",
+    "StateName": "Haryana",
+    "Year": "2011",
+    "SUM(I6000_10)": 207286,
+    "SUM(I6000_11)": 1091413,
+    "SUM(I6000_13)": 511420
+  },
+  {
+    "DistrictName": "Kakching",
+    "StateName": "Manipur",
+    "Year": "2011",
+    "SUM(I6000_10)": 31414,
+    "SUM(I6000_11)": 151311,
+    "SUM(I6000_13)": 75892
+  },
+  {
+    "DistrictName": "Kalaburagi",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 471601,
+    "SUM(I6000_11)": 2566326,
+    "SUM(I6000_13)": 1264571
+  },
+  {
+    "DistrictName": "Kalahandi",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 401251,
+    "SUM(I6000_11)": 1576869,
+    "SUM(I6000_13)": 789768
+  },
+  {
+    "DistrictName": "Kalimpong",
+    "StateName": "West Bengal",
+    "Year": "2011",
+    "SUM(I6000_10)": 41192,
+    "SUM(I6000_11)": 202239,
+    "SUM(I6000_13)": 98889
+  },
+  {
+    "DistrictName": "Kallakurichi",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 317617,
+    "SUM(I6000_11)": 1390502,
+    "SUM(I6000_13)": 688681
+  },
+  {
+    "DistrictName": "Kamareddy",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 222513,
+    "SUM(I6000_11)": 972625,
+    "SUM(I6000_13)": 494236
+  },
+  {
+    "DistrictName": "Kamjong",
+    "StateName": "Manipur",
+    "Year": "2011",
+    "SUM(I6000_10)": 9363,
+    "SUM(I6000_11)": 48181,
+    "SUM(I6000_13)": 23400
+  },
+  {
+    "DistrictName": "Kamle",
+    "StateName": "Arunachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 3697,
+    "SUM(I6000_11)": 22102,
+    "SUM(I6000_13)": 11136
+  },
+  {
+    "DistrictName": "Kamrup",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 311346,
+    "SUM(I6000_11)": 1518031,
+    "SUM(I6000_13)": 739734
+  },
+  {
+    "DistrictName": "Kamrup Metro",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 287570,
+    "SUM(I6000_11)": 1229628,
+    "SUM(I6000_13)": 594312
+  },
+  {
+    "DistrictName": "Kanchipuram",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 288479,
+    "SUM(I6000_11)": 1162014,
+    "SUM(I6000_13)": 577597
+  },
+  {
+    "DistrictName": "Kandhamal",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 172022,
+    "SUM(I6000_11)": 733110,
+    "SUM(I6000_13)": 373165
+  },
+  {
+    "DistrictName": "Kangpokpi",
+    "StateName": "Manipur",
+    "Year": "2011",
+    "SUM(I6000_10)": 36183,
+    "SUM(I6000_11)": 194713,
+    "SUM(I6000_13)": 95309
+  },
+  {
+    "DistrictName": "Kangra",
+    "StateName": "Himachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 338887,
+    "SUM(I6000_11)": 1510075,
+    "SUM(I6000_13)": 759484
+  },
+  {
+    "DistrictName": "Kanker",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 160937,
+    "SUM(I6000_11)": 748941,
+    "SUM(I6000_13)": 375603
+  },
+  {
+    "DistrictName": "Kannauj",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 280928,
+    "SUM(I6000_11)": 1656616,
+    "SUM(I6000_13)": 774840
+  },
+  {
+    "DistrictName": "Kanniyakumari",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 483539,
+    "SUM(I6000_11)": 1870374,
+    "SUM(I6000_13)": 944029
+  },
+  {
+    "DistrictName": "Kannur",
+    "StateName": "Kerala",
+    "Year": "2011",
+    "SUM(I6000_10)": 554298,
+    "SUM(I6000_11)": 2523003,
+    "SUM(I6000_13)": 1341557
+  },
+  {
+    "DistrictName": "Kanpur Dehat",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 329817,
+    "SUM(I6000_11)": 1796184,
+    "SUM(I6000_13)": 832929
+  },
+  {
+    "DistrictName": "Kanpur Nagar",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 863338,
+    "SUM(I6000_11)": 4581268,
+    "SUM(I6000_13)": 2121462
+  },
+  {
+    "DistrictName": "Kapurthala",
+    "StateName": "Punjab",
+    "Year": "2011",
+    "SUM(I6000_10)": 167989,
+    "SUM(I6000_11)": 815168,
+    "SUM(I6000_13)": 388857
+  },
+  {
+    "DistrictName": "Karaikal",
+    "StateName": "Puducherry",
+    "Year": "2011",
+    "SUM(I6000_10)": 49705,
+    "SUM(I6000_11)": 200222,
+    "SUM(I6000_13)": 102413
+  },
+  {
+    "DistrictName": "Karauli",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 262503,
+    "SUM(I6000_11)": 1458248,
+    "SUM(I6000_13)": 674609
+  },
+  {
+    "DistrictName": "Karbi Anglong",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 110701,
+    "SUM(I6000_11)": 589493,
+    "SUM(I6000_13)": 287424
+  },
+  {
+    "DistrictName": "Kargil",
+    "StateName": "Ladakh",
+    "Year": "2011",
+    "SUM(I6000_10)": 18338,
+    "SUM(I6000_11)": 140802,
+    "SUM(I6000_13)": 63017
+  },
+  {
+    "DistrictName": "Karimganj",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 235480,
+    "SUM(I6000_11)": 1171832,
+    "SUM(I6000_13)": 574441
+  },
+  {
+    "DistrictName": "Karimnagar",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 258485,
+    "SUM(I6000_11)": 1005711,
+    "SUM(I6000_13)": 501091
+  },
+  {
+    "DistrictName": "Karnal",
+    "StateName": "Haryana",
+    "Year": "2011",
+    "SUM(I6000_10)": 292034,
+    "SUM(I6000_11)": 1505069,
+    "SUM(I6000_13)": 707490
+  },
+  {
+    "DistrictName": "Karur",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 287095,
+    "SUM(I6000_11)": 1064493,
+    "SUM(I6000_13)": 536309
+  },
+  {
+    "DistrictName": "Kasaragod",
+    "StateName": "Kerala",
+    "Year": "2011",
+    "SUM(I6000_10)": 273410,
+    "SUM(I6000_11)": 1307375,
+    "SUM(I6000_13)": 678762
+  },
+  {
+    "DistrictName": "Kasganj",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 237903,
+    "SUM(I6000_11)": 1436719,
+    "SUM(I6000_13)": 672554
+  },
+  {
+    "DistrictName": "Kathua",
+    "StateName": "Jammu And Kashmir",
+    "Year": "2011",
+    "SUM(I6000_10)": 119583,
+    "SUM(I6000_11)": 616435,
+    "SUM(I6000_13)": 290326
+  },
+  {
+    "DistrictName": "Katihar",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 615966,
+    "SUM(I6000_11)": 3056452,
+    "SUM(I6000_13)": 1463688
+  },
+  {
+    "DistrictName": "Katni",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 289551,
+    "SUM(I6000_11)": 1292042,
+    "SUM(I6000_13)": 630029
+  },
+  {
+    "DistrictName": "Kaushambi",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 277851,
+    "SUM(I6000_11)": 1599596,
+    "SUM(I6000_13)": 761111
+  },
+  {
+    "DistrictName": "Kendrapara",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 321436,
+    "SUM(I6000_11)": 1437763,
+    "SUM(I6000_13)": 721244
+  },
+  {
+    "DistrictName": "Kendujhar",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 405272,
+    "SUM(I6000_11)": 1801733,
+    "SUM(I6000_13)": 895246
+  },
+  {
+    "DistrictName": "Khagaria",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 328823,
+    "SUM(I6000_11)": 1666886,
+    "SUM(I6000_13)": 783100
+  },
+  {
+    "DistrictName": "Khammam",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 382929,
+    "SUM(I6000_11)": 1401639,
+    "SUM(I6000_13)": 702515
+  },
+  {
+    "DistrictName": "Khargone",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 367988,
+    "SUM(I6000_11)": 1873046,
+    "SUM(I6000_13)": 919925
+  },
+  {
+    "DistrictName": "Khawzawl",
+    "StateName": "Mizoram",
+    "Year": "2011",
+    "SUM(I6000_10)": 6881,
+    "SUM(I6000_11)": 34104,
+    "SUM(I6000_13)": 16791
+  },
+  {
+    "DistrictName": "Kheda",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 420726,
+    "SUM(I6000_11)": 2067860,
+    "SUM(I6000_13)": 1002102
+  },
+  {
+    "DistrictName": "Kheri",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 745196,
+    "SUM(I6000_11)": 4022228,
+    "SUM(I6000_13)": 1898554
+  },
+  {
+    "DistrictName": "Khordha",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 495081,
+    "SUM(I6000_11)": 2255955,
+    "SUM(I6000_13)": 1086545
+  },
+  {
+    "DistrictName": "Khowai",
+    "StateName": "Tripura",
+    "Year": "2011",
+    "SUM(I6000_10)": 77384,
+    "SUM(I6000_11)": 327564,
+    "SUM(I6000_13)": 160163
+  },
+  {
+    "DistrictName": "Khunti",
+    "StateName": "Jharkhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 103700,
+    "SUM(I6000_11)": 531885,
+    "SUM(I6000_13)": 265550
+  },
+  {
+    "DistrictName": "Kinnaur",
+    "StateName": "Himachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 19976,
+    "SUM(I6000_11)": 84121,
+    "SUM(I6000_13)": 37872
+  },
+  {
+    "DistrictName": "Kiphire",
+    "StateName": "Nagaland",
+    "Year": "2011",
+    "SUM(I6000_10)": 14771,
+    "SUM(I6000_11)": 74004,
+    "SUM(I6000_13)": 36174
+  },
+  {
+    "DistrictName": "Kishanganj",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 338445,
+    "SUM(I6000_11)": 1690400,
+    "SUM(I6000_13)": 823430
+  },
+  {
+    "DistrictName": "Kishtwar",
+    "StateName": "Jammu And Kashmir",
+    "Year": "2011",
+    "SUM(I6000_10)": 45209,
+    "SUM(I6000_11)": 230696,
+    "SUM(I6000_13)": 110531
+  },
+  {
+    "DistrictName": "Kodagu",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 142716,
+    "SUM(I6000_11)": 554519,
+    "SUM(I6000_13)": 279911
+  },
+  {
+    "DistrictName": "Koderma",
+    "StateName": "Jharkhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 116155,
+    "SUM(I6000_11)": 716259,
+    "SUM(I6000_13)": 349037
+  },
+  {
+    "DistrictName": "Kohima",
+    "StateName": "Nagaland",
+    "Year": "2011",
+    "SUM(I6000_10)": 54320,
+    "SUM(I6000_11)": 267702,
+    "SUM(I6000_13)": 128884
+  },
+  {
+    "DistrictName": "Kokrajhar",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 201463,
+    "SUM(I6000_11)": 982161,
+    "SUM(I6000_13)": 480585
+  },
+  {
+    "DistrictName": "Kolar",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 333348,
+    "SUM(I6000_11)": 1536401,
+    "SUM(I6000_13)": 760005
+  },
+  {
+    "DistrictName": "Kolasib",
+    "StateName": "Mizoram",
+    "Year": "2011",
+    "SUM(I6000_10)": 16592,
+    "SUM(I6000_11)": 80972,
+    "SUM(I6000_13)": 39607
+  },
+  {
+    "DistrictName": "Kolhapur",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 840240,
+    "SUM(I6000_11)": 3876001,
+    "SUM(I6000_13)": 1895343
+  },
+  {
+    "DistrictName": "Kolkata",
+    "StateName": "West Bengal",
+    "Year": "2011",
+    "SUM(I6000_10)": 1024928,
+    "SUM(I6000_11)": 4496694,
+    "SUM(I6000_13)": 2139928
+  },
+  {
+    "DistrictName": "Kollam",
+    "StateName": "Kerala",
+    "Year": "2011",
+    "SUM(I6000_10)": 669375,
+    "SUM(I6000_11)": 2635375,
+    "SUM(I6000_13)": 1388407
+  },
+  {
+    "DistrictName": "Kondagaon",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 121580,
+    "SUM(I6000_11)": 578824,
+    "SUM(I6000_13)": 294043
+  },
+  {
+    "DistrictName": "Koppal",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 264595,
+    "SUM(I6000_11)": 1389920,
+    "SUM(I6000_13)": 689994
+  },
+  {
+    "DistrictName": "Koraput",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 337677,
+    "SUM(I6000_11)": 1379647,
+    "SUM(I6000_13)": 700838
+  },
+  {
+    "DistrictName": "Korba",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 280073,
+    "SUM(I6000_11)": 1206640,
+    "SUM(I6000_13)": 593725
+  },
+  {
+    "DistrictName": "Korea",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 153274,
+    "SUM(I6000_11)": 658917,
+    "SUM(I6000_13)": 324180
+  },
+  {
+    "DistrictName": "Kota",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 395826,
+    "SUM(I6000_11)": 1947712,
+    "SUM(I6000_13)": 928256
+  },
+  {
+    "DistrictName": "Kottayam",
+    "StateName": "Kerala",
+    "Year": "2011",
+    "SUM(I6000_10)": 487296,
+    "SUM(I6000_11)": 1974551,
+    "SUM(I6000_13)": 1006262
+  },
+  {
+    "DistrictName": "Kozhikode",
+    "StateName": "Kerala",
+    "Year": "2011",
+    "SUM(I6000_10)": 697710,
+    "SUM(I6000_11)": 3086293,
+    "SUM(I6000_13)": 1615351
+  },
+  {
+    "DistrictName": "Kra Daadi",
+    "StateName": "Arunachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 11580,
+    "SUM(I6000_11)": 64888,
+    "SUM(I6000_13)": 32297
+  },
+  {
+    "DistrictName": "Krishna",
+    "StateName": "Andhra Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 1243293,
+    "SUM(I6000_11)": 4517398,
+    "SUM(I6000_13)": 2250023
+  },
+  {
+    "DistrictName": "Krishnagiri",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 448053,
+    "SUM(I6000_11)": 1879809,
+    "SUM(I6000_13)": 919577
+  },
+  {
+    "DistrictName": "Kulgam",
+    "StateName": "Jammu And Kashmir",
+    "Year": "2011",
+    "SUM(I6000_10)": 73728,
+    "SUM(I6000_11)": 424483,
+    "SUM(I6000_13)": 206863
+  },
+  {
+    "DistrictName": "Kullu",
+    "StateName": "Himachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 94807,
+    "SUM(I6000_11)": 437903,
+    "SUM(I6000_13)": 212451
+  },
+  {
+    "DistrictName": "Kumuram Bheem Asifabad",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 120420,
+    "SUM(I6000_11)": 515812,
+    "SUM(I6000_13)": 257615
+  },
+  {
+    "DistrictName": "Kupwara",
+    "StateName": "Jammu And Kashmir",
+    "Year": "2011",
+    "SUM(I6000_10)": 113929,
+    "SUM(I6000_11)": 870354,
+    "SUM(I6000_13)": 396164
+  },
+  {
+    "DistrictName": "Kurnool",
+    "StateName": "Andhra Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 887652,
+    "SUM(I6000_11)": 4053463,
+    "SUM(I6000_13)": 2014236
+  },
+  {
+    "DistrictName": "Kurukshetra",
+    "StateName": "Haryana",
+    "Year": "2011",
+    "SUM(I6000_10)": 188143,
+    "SUM(I6000_11)": 964655,
+    "SUM(I6000_13)": 453679
+  },
+  {
+    "DistrictName": "Kurung Kumey",
+    "StateName": "Arunachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 10884,
+    "SUM(I6000_11)": 59618,
+    "SUM(I6000_13)": 29661
+  },
+  {
+    "DistrictName": "Kushi Nagar",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 561062,
+    "SUM(I6000_11)": 3564544,
+    "SUM(I6000_13)": 1746489
+  },
+  {
+    "DistrictName": "Lahul And Spiti",
+    "StateName": "Himachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 6674,
+    "SUM(I6000_11)": 31564,
+    "SUM(I6000_13)": 14976
+  },
+  {
+    "DistrictName": "Lakhimpur",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 204487,
+    "SUM(I6000_11)": 1043096,
+    "SUM(I6000_13)": 512930
+  },
+  {
+    "DistrictName": "Lakhisarai",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 163355,
+    "SUM(I6000_11)": 1000912,
+    "SUM(I6000_13)": 474567
+  },
+  {
+    "DistrictName": "Lakshadweep District",
+    "StateName": "Lakshadweep",
+    "Year": "2011",
+    "SUM(I6000_10)": 11574,
+    "SUM(I6000_11)": 64473,
+    "SUM(I6000_13)": 31350
+  },
+  {
+    "DistrictName": "Lalitpur",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 222094,
+    "SUM(I6000_11)": 1221592,
+    "SUM(I6000_13)": 580581
+  },
+  {
+    "DistrictName": "Latehar",
+    "StateName": "Jharkhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 133381,
+    "SUM(I6000_11)": 726978,
+    "SUM(I6000_13)": 357312
+  },
+  {
+    "DistrictName": "Latur",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 481572,
+    "SUM(I6000_11)": 2454196,
+    "SUM(I6000_13)": 1181056
+  },
+  {
+    "DistrictName": "Lawngtlai",
+    "StateName": "Mizoram",
+    "Year": "2011",
+    "SUM(I6000_10)": 22984,
+    "SUM(I6000_11)": 117894,
+    "SUM(I6000_13)": 57295
+  },
+  {
+    "DistrictName": "Leh Ladakh",
+    "StateName": "Ladakh",
+    "Year": "2011",
+    "SUM(I6000_10)": 21909,
+    "SUM(I6000_11)": 133487,
+    "SUM(I6000_13)": 54516
+  },
+  {
+    "DistrictName": "Leparada",
+    "StateName": "Arunachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 5523,
+    "SUM(I6000_11)": 29273,
+    "SUM(I6000_13)": 14266
+  },
+  {
+    "DistrictName": "Lohardaga",
+    "StateName": "Jharkhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 88638,
+    "SUM(I6000_11)": 461790,
+    "SUM(I6000_13)": 229161
+  },
+  {
+    "DistrictName": "Lohit",
+    "StateName": "Arunachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 6649,
+    "SUM(I6000_11)": 31447,
+    "SUM(I6000_13)": 14903
+  },
+  {
+    "DistrictName": "Longding",
+    "StateName": "Arunachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 9426,
+    "SUM(I6000_11)": 56953,
+    "SUM(I6000_13)": 28243
+  },
+  {
+    "DistrictName": "Longleng",
+    "StateName": "Nagaland",
+    "Year": "2011",
+    "SUM(I6000_10)": 11985,
+    "SUM(I6000_11)": 50484,
+    "SUM(I6000_13)": 23982
+  },
+  {
+    "DistrictName": "Lower Dibang Valley",
+    "StateName": "Arunachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 10755,
+    "SUM(I6000_11)": 49842,
+    "SUM(I6000_13)": 23633
+  },
+  {
+    "DistrictName": "Lower Siang",
+    "StateName": "Arunachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 3785,
+    "SUM(I6000_11)": 21116,
+    "SUM(I6000_13)": 10349
+  },
+  {
+    "DistrictName": "Lower Subansiri",
+    "StateName": "Arunachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 15393,
+    "SUM(I6000_11)": 79140,
+    "SUM(I6000_13)": 38873
+  },
+  {
+    "DistrictName": "Lucknow",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 860703,
+    "SUM(I6000_11)": 4589838,
+    "SUM(I6000_13)": 2195362
+  },
+  {
+    "DistrictName": "Ludhiana",
+    "StateName": "Punjab",
+    "Year": "2011",
+    "SUM(I6000_10)": 716826,
+    "SUM(I6000_11)": 3498739,
+    "SUM(I6000_13)": 1630923
+  },
+  {
+    "DistrictName": "Lunglei",
+    "StateName": "Mizoram",
+    "Year": "2011",
+    "SUM(I6000_10)": 26858,
+    "SUM(I6000_11)": 131301,
+    "SUM(I6000_13)": 63499
+  },
+  {
+    "DistrictName": "Madhepura",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 401289,
+    "SUM(I6000_11)": 2001762,
+    "SUM(I6000_13)": 954203
+  },
+  {
+    "DistrictName": "Madhubani",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 898515,
+    "SUM(I6000_11)": 4487379,
+    "SUM(I6000_13)": 2158066
+  },
+  {
+    "DistrictName": "Madurai",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 794887,
+    "SUM(I6000_11)": 3038252,
+    "SUM(I6000_13)": 1511777
+  },
+  {
+    "DistrictName": "Mahabubabad",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 195889,
+    "SUM(I6000_11)": 774549,
+    "SUM(I6000_13)": 386491
+  },
+  {
+    "DistrictName": "Mahabubnagar",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 189631,
+    "SUM(I6000_11)": 919903,
+    "SUM(I6000_13)": 457033
+  },
+  {
+    "DistrictName": "Maharajganj",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 426565,
+    "SUM(I6000_11)": 2684703,
+    "SUM(I6000_13)": 1302949
+  },
+  {
+    "DistrictName": "Mahasamund",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 248561,
+    "SUM(I6000_11)": 1032754,
+    "SUM(I6000_13)": 520787
+  },
+  {
+    "DistrictName": "Mahe",
+    "StateName": "Puducherry",
+    "Year": "2011",
+    "SUM(I6000_10)": 7420,
+    "SUM(I6000_11)": 41816,
+    "SUM(I6000_13)": 22673
+  },
+  {
+    "DistrictName": "Mahendragarh",
+    "StateName": "Haryana",
+    "Year": "2011",
+    "SUM(I6000_10)": 171712,
+    "SUM(I6000_11)": 922088,
+    "SUM(I6000_13)": 435423
+  },
+  {
+    "DistrictName": "Mahesana",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 425584,
+    "SUM(I6000_11)": 2040611,
+    "SUM(I6000_13)": 981268
+  },
+  {
+    "DistrictName": "Mahisagar",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 191713,
+    "SUM(I6000_11)": 994624,
+    "SUM(I6000_13)": 483680
+  },
+  {
+    "DistrictName": "Mahoba",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 158435,
+    "SUM(I6000_11)": 875958,
+    "SUM(I6000_13)": 409600
+  },
+  {
+    "DistrictName": "Mainpuri",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 313690,
+    "SUM(I6000_11)": 1868529,
+    "SUM(I6000_13)": 875152
+  },
+  {
+    "DistrictName": "Majuli",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 32236,
+    "SUM(I6000_11)": 167304,
+    "SUM(I6000_13)": 81738
+  },
+  {
+    "DistrictName": "Malappuram",
+    "StateName": "Kerala",
+    "Year": "2011",
+    "SUM(I6000_10)": 793999,
+    "SUM(I6000_11)": 4112920,
+    "SUM(I6000_13)": 2152592
+  },
+  {
+    "DistrictName": "Maldah",
+    "StateName": "West Bengal",
+    "Year": "2011",
+    "SUM(I6000_10)": 846991,
+    "SUM(I6000_11)": 3988845,
+    "SUM(I6000_13)": 1937304
+  },
+  {
+    "DistrictName": "Malerkotla",
+    "StateName": "Punjab",
+    "Year": "2011",
+    "SUM(I6000_10)": 82784,
+    "SUM(I6000_11)": 430013,
+    "SUM(I6000_13)": 203233
+  },
+  {
+    "DistrictName": "Malkangiri",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 137927,
+    "SUM(I6000_11)": 614462,
+    "SUM(I6000_13)": 310179
+  },
+  {
+    "DistrictName": "Mamit",
+    "StateName": "Mizoram",
+    "Year": "2011",
+    "SUM(I6000_10)": 17731,
+    "SUM(I6000_11)": 86364,
+    "SUM(I6000_13)": 41536
+  },
+  {
+    "DistrictName": "Mancherial",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 206983,
+    "SUM(I6000_11)": 807037,
+    "SUM(I6000_13)": 398765
+  },
+  {
+    "DistrictName": "Mandi",
+    "StateName": "Himachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 219145,
+    "SUM(I6000_11)": 999777,
+    "SUM(I6000_13)": 501712
+  },
+  {
+    "DistrictName": "Mandla",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 247782,
+    "SUM(I6000_11)": 1044478,
+    "SUM(I6000_13)": 524542
+  },
+  {
+    "DistrictName": "Mandsaur",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 286808,
+    "SUM(I6000_11)": 1340411,
+    "SUM(I6000_13)": 657560
+  },
+  {
+    "DistrictName": "Mandya",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 428625,
+    "SUM(I6000_11)": 1805769,
+    "SUM(I6000_13)": 900684
+  },
+  {
+    "DistrictName": "Mansa",
+    "StateName": "Punjab",
+    "Year": "2011",
+    "SUM(I6000_10)": 149630,
+    "SUM(I6000_11)": 769751,
+    "SUM(I6000_13)": 361019
+  },
+  {
+    "DistrictName": "Marigaon",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 184602,
+    "SUM(I6000_11)": 957423,
+    "SUM(I6000_13)": 470772
+  },
+  {
+    "DistrictName": "Mathura",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 423125,
+    "SUM(I6000_11)": 2547184,
+    "SUM(I6000_13)": 1180059
+  },
+  {
+    "DistrictName": "Mau",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 324424,
+    "SUM(I6000_11)": 2205968,
+    "SUM(I6000_13)": 1091259
+  },
+  {
+    "DistrictName": "Mayiladuthurai",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 230493,
+    "SUM(I6000_11)": 918356,
+    "SUM(I6000_13)": 465705
+  },
+  {
+    "DistrictName": "Mayurbhanj",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 586253,
+    "SUM(I6000_11)": 2519738,
+    "SUM(I6000_13)": 1263525
+  },
+  {
+    "DistrictName": "Medak",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 168677,
+    "SUM(I6000_11)": 767428,
+    "SUM(I6000_13)": 388774
+  },
+  {
+    "DistrictName": "Medchal Malkajgiri",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 593697,
+    "SUM(I6000_11)": 2440073,
+    "SUM(I6000_13)": 1193407
+  },
+  {
+    "DistrictName": "Medinipur East",
+    "StateName": "West Bengal",
+    "Year": "2011",
+    "SUM(I6000_10)": 1114170,
+    "SUM(I6000_11)": 5095875,
+    "SUM(I6000_13)": 2466041
+  },
+  {
+    "DistrictName": "Medinipur West",
+    "StateName": "West Bengal",
+    "Year": "2011",
+    "SUM(I6000_10)": 1061318,
+    "SUM(I6000_11)": 4838621,
+    "SUM(I6000_13)": 2374607
+  },
+  {
+    "DistrictName": "Meerut",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 579110,
+    "SUM(I6000_11)": 3443689,
+    "SUM(I6000_13)": 1617946
+  },
+  {
+    "DistrictName": "Mirzapur",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 394925,
+    "SUM(I6000_11)": 2496970,
+    "SUM(I6000_13)": 1184668
+  },
+  {
+    "DistrictName": "Moga",
+    "StateName": "Punjab",
+    "Year": "2011",
+    "SUM(I6000_10)": 193271,
+    "SUM(I6000_11)": 995810,
+    "SUM(I6000_13)": 469860
+  },
+  {
+    "DistrictName": "Mokokchung",
+    "StateName": "Nagaland",
+    "Year": "2011",
+    "SUM(I6000_10)": 42690,
+    "SUM(I6000_11)": 194622,
+    "SUM(I6000_13)": 93530
+  },
+  {
+    "DistrictName": "Mon",
+    "StateName": "Nagaland",
+    "Year": "2011",
+    "SUM(I6000_10)": 41978,
+    "SUM(I6000_11)": 250260,
+    "SUM(I6000_13)": 118507
+  },
+  {
+    "DistrictName": "Moradabad",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 524667,
+    "SUM(I6000_11)": 3126499,
+    "SUM(I6000_13)": 1489472
+  },
+  {
+    "DistrictName": "Morbi",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 189782,
+    "SUM(I6000_11)": 970548,
+    "SUM(I6000_13)": 470674
+  },
+  {
+    "DistrictName": "Morena",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 362646,
+    "SUM(I6000_11)": 1965970,
+    "SUM(I6000_13)": 897553
+  },
+  {
+    "DistrictName": "Mulugu",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 78239,
+    "SUM(I6000_11)": 294671,
+    "SUM(I6000_13)": 148466
+  },
+  {
+    "DistrictName": "Mumbai",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 2779943,
+    "SUM(I6000_11)": 12442373,
+    "SUM(I6000_13)": 5726442
+  },
+  {
+    "DistrictName": "Mungeli",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 157717,
+    "SUM(I6000_11)": 701707,
+    "SUM(I6000_13)": 346258
+  },
+  {
+    "DistrictName": "Munger",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 263171,
+    "SUM(I6000_11)": 1367765,
+    "SUM(I6000_13)": 638724
+  },
+  {
+    "DistrictName": "Murshidabad",
+    "StateName": "West Bengal",
+    "Year": "2011",
+    "SUM(I6000_10)": 1570759,
+    "SUM(I6000_11)": 7103807,
+    "SUM(I6000_13)": 3476243
+  },
+  {
+    "DistrictName": "Muzaffarnagar",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 462777,
+    "SUM(I6000_11)": 2829865,
+    "SUM(I6000_13)": 1335819
+  },
+  {
+    "DistrictName": "Muzaffarpur",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 945703,
+    "SUM(I6000_11)": 4801062,
+    "SUM(I6000_13)": 2273565
+  },
+  {
+    "DistrictName": "Mysuru",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 700968,
+    "SUM(I6000_11)": 3001127,
+    "SUM(I6000_13)": 1489527
+  },
+  {
+    "DistrictName": "Nabarangpur",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 273423,
+    "SUM(I6000_11)": 1220946,
+    "SUM(I6000_13)": 616134
+  },
+  {
+    "DistrictName": "Nadia",
+    "StateName": "West Bengal",
+    "Year": "2011",
+    "SUM(I6000_10)": 1232557,
+    "SUM(I6000_11)": 5169011,
+    "SUM(I6000_13)": 2514534
+  },
+  {
+    "DistrictName": "Nagaon",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 382552,
+    "SUM(I6000_11)": 1892550,
+    "SUM(I6000_13)": 929918
+  },
+  {
+    "DistrictName": "Nagapattinam",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 183344,
+    "SUM(I6000_11)": 698094,
+    "SUM(I6000_13)": 352618
+  },
+  {
+    "DistrictName": "Nagarkurnool",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 196261,
+    "SUM(I6000_11)": 861766,
+    "SUM(I6000_13)": 423780
+  },
+  {
+    "DistrictName": "Nagaur",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 578809,
+    "SUM(I6000_11)": 3307743,
+    "SUM(I6000_13)": 1611418
+  },
+  {
+    "DistrictName": "Nagpur",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 1041544,
+    "SUM(I6000_11)": 4653570,
+    "SUM(I6000_13)": 2268595
+  },
+  {
+    "DistrictName": "Nainital",
+    "StateName": "Uttarakhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 191383,
+    "SUM(I6000_11)": 954605,
+    "SUM(I6000_13)": 460939
+  },
+  {
+    "DistrictName": "Nalanda",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 477529,
+    "SUM(I6000_11)": 2877653,
+    "SUM(I6000_13)": 1380593
+  },
+  {
+    "DistrictName": "Nalbari",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 154207,
+    "SUM(I6000_11)": 767040,
+    "SUM(I6000_13)": 373371
+  },
+  {
+    "DistrictName": "Nalgonda",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 401728,
+    "SUM(I6000_11)": 1618416,
+    "SUM(I6000_13)": 800110
+  },
+  {
+    "DistrictName": "Namakkal",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 475511,
+    "SUM(I6000_11)": 1726601,
+    "SUM(I6000_13)": 857321
+  },
+  {
+    "DistrictName": "Namsai",
+    "StateName": "Arunachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 19597,
+    "SUM(I6000_11)": 98280,
+    "SUM(I6000_13)": 46750
+  },
+  {
+    "DistrictName": "Nanded",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 665434,
+    "SUM(I6000_11)": 3361292,
+    "SUM(I6000_13)": 1631217
+  },
+  {
+    "DistrictName": "Nandurbar",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 323521,
+    "SUM(I6000_11)": 1648295,
+    "SUM(I6000_13)": 815125
+  },
+  {
+    "DistrictName": "Narayanpet",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 110877,
+    "SUM(I6000_11)": 566874,
+    "SUM(I6000_13)": 284643
+  },
+  {
+    "DistrictName": "Narayanpur",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 27982,
+    "SUM(I6000_11)": 139820,
+    "SUM(I6000_13)": 69716
+  },
+  {
+    "DistrictName": "Narmada",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 122174,
+    "SUM(I6000_11)": 590297,
+    "SUM(I6000_13)": 289211
+  },
+  {
+    "DistrictName": "Narsinghpur",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 250286,
+    "SUM(I6000_11)": 1091854,
+    "SUM(I6000_13)": 523044
+  },
+  {
+    "DistrictName": "Nashik",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 1222887,
+    "SUM(I6000_11)": 6107187,
+    "SUM(I6000_13)": 2950001
+  },
+  {
+    "DistrictName": "Navsari",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 295131,
+    "SUM(I6000_11)": 1329672,
+    "SUM(I6000_13)": 651507
+  },
+  {
+    "DistrictName": "Nawada",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 338247,
+    "SUM(I6000_11)": 2219146,
+    "SUM(I6000_13)": 1074478
+  },
+  {
+    "DistrictName": "Nayagarh",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 228315,
+    "SUM(I6000_11)": 962789,
+    "SUM(I6000_13)": 460153
+  },
+  {
+    "DistrictName": "Neemuch",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 179746,
+    "SUM(I6000_11)": 826067,
+    "SUM(I6000_13)": 403414
+  },
+  {
+    "DistrictName": "New Delhi",
+    "StateName": "Delhi",
+    "Year": "2011",
+    "SUM(I6000_10)": 80961,
+    "SUM(I6000_11)": 332341,
+    "SUM(I6000_13)": 140657
+  },
+  {
+    "DistrictName": "Nicobars",
+    "StateName": "Andaman And Nicobar Islands",
+    "Year": "2011",
+    "SUM(I6000_10)": 9288,
+    "SUM(I6000_11)": 36842,
+    "SUM(I6000_13)": 16115
+  },
+  {
+    "DistrictName": "Nirmal",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 165763,
+    "SUM(I6000_11)": 709418,
+    "SUM(I6000_13)": 362697
+  },
+  {
+    "DistrictName": "Niwari",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 78626,
+    "SUM(I6000_11)": 377924,
+    "SUM(I6000_13)": 178540
+  },
+  {
+    "DistrictName": "Nizamabad",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 369031,
+    "SUM(I6000_11)": 1571022,
+    "SUM(I6000_13)": 802545
+  },
+  {
+    "DistrictName": "Noklak",
+    "StateName": "Nagaland",
+    "Year": "2011",
+    "SUM(I6000_10)": 10421,
+    "SUM(I6000_11)": 55606,
+    "SUM(I6000_13)": 26654
+  },
+  {
+    "DistrictName": "Noney",
+    "StateName": "Manipur",
+    "Year": "2011",
+    "SUM(I6000_10)": 8522,
+    "SUM(I6000_11)": 47356,
+    "SUM(I6000_13)": 22890
+  },
+  {
+    "DistrictName": "North",
+    "StateName": "Delhi",
+    "Year": "2011",
+    "SUM(I6000_10)": 268135,
+    "SUM(I6000_11)": 1346500,
+    "SUM(I6000_13)": 620115
+  },
+  {
+    "DistrictName": "North And Middle Andaman",
+    "StateName": "Andaman And Nicobar Islands",
+    "Year": "2011",
+    "SUM(I6000_10)": 26199,
+    "SUM(I6000_11)": 105597,
+    "SUM(I6000_13)": 50736
+  },
+  {
+    "DistrictName": "North District",
+    "StateName": "Sikkim",
+    "Year": "2011",
+    "SUM(I6000_10)": 9938,
+    "SUM(I6000_11)": 49210,
+    "SUM(I6000_13)": 21175
+  },
+  {
+    "DistrictName": "North East",
+    "StateName": "Delhi",
+    "Year": "2011",
+    "SUM(I6000_10)": 151705,
+    "SUM(I6000_11)": 847941,
+    "SUM(I6000_13)": 396223
+  },
+  {
+    "DistrictName": "North Garo Hills",
+    "StateName": "Meghalaya",
+    "Year": "2011",
+    "SUM(I6000_10)": 31720,
+    "SUM(I6000_11)": 172005,
+    "SUM(I6000_13)": 85187
+  },
+  {
+    "DistrictName": "North Goa",
+    "StateName": "Goa",
+    "Year": "2011",
+    "SUM(I6000_10)": 153417,
+    "SUM(I6000_11)": 652178,
+    "SUM(I6000_13)": 320993
+  },
+  {
+    "DistrictName": "North Tripura",
+    "StateName": "Tripura",
+    "Year": "2011",
+    "SUM(I6000_10)": 90294,
+    "SUM(I6000_11)": 417441,
+    "SUM(I6000_13)": 204791
+  },
+  {
+    "DistrictName": "North West",
+    "StateName": "Delhi",
+    "Year": "2011",
+    "SUM(I6000_10)": 592469,
+    "SUM(I6000_11)": 2910982,
+    "SUM(I6000_13)": 1355153
+  },
+  {
+    "DistrictName": "Nuapada",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 152210,
+    "SUM(I6000_11)": 610382,
+    "SUM(I6000_13)": 308420
+  },
+  {
+    "DistrictName": "Nuh",
+    "StateName": "Haryana",
+    "Year": "2011",
+    "SUM(I6000_10)": 160280,
+    "SUM(I6000_11)": 1089263,
+    "SUM(I6000_13)": 518101
+  },
+  {
+    "DistrictName": "Osmanabad",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 351281,
+    "SUM(I6000_11)": 1657576,
+    "SUM(I6000_13)": 796041
+  },
+  {
+    "DistrictName": "Pakke Kessang",
+    "StateName": "Arunachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 2158,
+    "SUM(I6000_11)": 12098,
+    "SUM(I6000_13)": 6141
+  },
+  {
+    "DistrictName": "Pakur",
+    "StateName": "Jharkhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 182317,
+    "SUM(I6000_11)": 900422,
+    "SUM(I6000_13)": 447761
+  },
+  {
+    "DistrictName": "Palakkad",
+    "StateName": "Kerala",
+    "Year": "2011",
+    "SUM(I6000_10)": 637220,
+    "SUM(I6000_11)": 2809934,
+    "SUM(I6000_13)": 1450456
+  },
+  {
+    "DistrictName": "Palamu",
+    "StateName": "Jharkhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 358754,
+    "SUM(I6000_11)": 1939869,
+    "SUM(I6000_13)": 933567
+  },
+  {
+    "DistrictName": "Palghar",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 669823,
+    "SUM(I6000_11)": 2990116,
+    "SUM(I6000_13)": 1444337
+  },
+  {
+    "DistrictName": "Pali",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 418157,
+    "SUM(I6000_11)": 2037573,
+    "SUM(I6000_13)": 1012151
+  },
+  {
+    "DistrictName": "Palwal",
+    "StateName": "Haryana",
+    "Year": "2011",
+    "SUM(I6000_10)": 171157,
+    "SUM(I6000_11)": 1042708,
+    "SUM(I6000_13)": 488211
+  },
+  {
+    "DistrictName": "Panchkula",
+    "StateName": "Haryana",
+    "Year": "2011",
+    "SUM(I6000_10)": 117107,
+    "SUM(I6000_11)": 561293,
+    "SUM(I6000_13)": 261614
+  },
+  {
+    "DistrictName": "Panch Mahals",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 303816,
+    "SUM(I6000_11)": 1642268,
+    "SUM(I6000_13)": 799029
+  },
+  {
+    "DistrictName": "Panipat",
+    "StateName": "Haryana",
+    "Year": "2011",
+    "SUM(I6000_10)": 235690,
+    "SUM(I6000_11)": 1205692,
+    "SUM(I6000_13)": 558702
+  },
+  {
+    "DistrictName": "Panna",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 228709,
+    "SUM(I6000_11)": 1016520,
+    "SUM(I6000_13)": 483040
+  },
+  {
+    "DistrictName": "Papum Pare",
+    "StateName": "Arunachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 35730,
+    "SUM(I6000_11)": 176573,
+    "SUM(I6000_13)": 87391
+  },
+  {
+    "DistrictName": "Parbhani",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 361130,
+    "SUM(I6000_11)": 1836086,
+    "SUM(I6000_13)": 893216
+  },
+  {
+    "DistrictName": "Paschim Bardhaman",
+    "StateName": "West Bengal",
+    "Year": "2011",
+    "SUM(I6000_10)": 493501,
+    "SUM(I6000_11)": 2293505,
+    "SUM(I6000_13)": 1102114
+  },
+  {
+    "DistrictName": "Pashchim Champaran",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 710461,
+    "SUM(I6000_11)": 3935042,
+    "SUM(I6000_13)": 1873932
+  },
+  {
+    "DistrictName": "Patan",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 267633,
+    "SUM(I6000_11)": 1343734,
+    "SUM(I6000_13)": 649337
+  },
+  {
+    "DistrictName": "Pathanamthitta",
+    "StateName": "Kerala",
+    "Year": "2011",
+    "SUM(I6000_10)": 322684,
+    "SUM(I6000_11)": 1197412,
+    "SUM(I6000_13)": 635696
+  },
+  {
+    "DistrictName": "Pathankot",
+    "StateName": "Punjab",
+    "Year": "2011",
+    "SUM(I6000_10)": 134559,
+    "SUM(I6000_11)": 676598,
+    "SUM(I6000_13)": 314596
+  },
+  {
+    "DistrictName": "Patiala",
+    "StateName": "Punjab",
+    "Year": "2011",
+    "SUM(I6000_10)": 379313,
+    "SUM(I6000_11)": 1933566,
+    "SUM(I6000_13)": 910914
+  },
+  {
+    "DistrictName": "Patna",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 975578,
+    "SUM(I6000_11)": 5838465,
+    "SUM(I6000_13)": 2759953
+  },
+  {
+    "DistrictName": "Pauri Garhwal",
+    "StateName": "Uttarakhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 161601,
+    "SUM(I6000_11)": 686555,
+    "SUM(I6000_13)": 360103
+  },
+  {
+    "DistrictName": "Peddapalli",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 209677,
+    "SUM(I6000_11)": 795332,
+    "SUM(I6000_13)": 396007
+  },
+  {
+    "DistrictName": "Perambalur",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 149243,
+    "SUM(I6000_11)": 565223,
+    "SUM(I6000_13)": 283066
+  },
+  {
+    "DistrictName": "Peren",
+    "StateName": "Nagaland",
+    "Year": "2011",
+    "SUM(I6000_10)": 18475,
+    "SUM(I6000_11)": 95219,
+    "SUM(I6000_13)": 45505
+  },
+  {
+    "DistrictName": "Phek",
+    "StateName": "Nagaland",
+    "Year": "2011",
+    "SUM(I6000_10)": 36639,
+    "SUM(I6000_11)": 163418,
+    "SUM(I6000_13)": 79675
+  },
+  {
+    "DistrictName": "Pherzawl",
+    "StateName": "Manipur",
+    "Year": "2011",
+    "SUM(I6000_10)": 6852,
+    "SUM(I6000_11)": 40390,
+    "SUM(I6000_13)": 19964
+  },
+  {
+    "DistrictName": "Pilibhit",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 362573,
+    "SUM(I6000_11)": 2031007,
+    "SUM(I6000_13)": 959005
+  },
+  {
+    "DistrictName": "Pithoragarh",
+    "StateName": "Uttarakhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 114730,
+    "SUM(I6000_11)": 483439,
+    "SUM(I6000_13)": 244133
+  },
+  {
+    "DistrictName": "Pondicherry",
+    "StateName": "Puducherry",
+    "Year": "2011",
+    "SUM(I6000_10)": 231513,
+    "SUM(I6000_11)": 950289,
+    "SUM(I6000_13)": 482031
+  },
+  {
+    "DistrictName": "Poonch",
+    "StateName": "Jammu And Kashmir",
+    "Year": "2011",
+    "SUM(I6000_10)": 90261,
+    "SUM(I6000_11)": 476835,
+    "SUM(I6000_13)": 224936
+  },
+  {
+    "DistrictName": "Porbandar",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 124373,
+    "SUM(I6000_11)": 584704,
+    "SUM(I6000_13)": 284861
+  },
+  {
+    "DistrictName": "Prakasam",
+    "StateName": "Andhra Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 860463,
+    "SUM(I6000_11)": 3397448,
+    "SUM(I6000_13)": 1682684
+  },
+  {
+    "DistrictName": "Pratapgarh",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 178726,
+    "SUM(I6000_11)": 867848,
+    "SUM(I6000_13)": 430104
+  },
+  {
+    "DistrictName": "Pratapgarh",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 533546,
+    "SUM(I6000_11)": 3209141,
+    "SUM(I6000_13)": 1603056
+  },
+  {
+    "DistrictName": "Prayagraj",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 976733,
+    "SUM(I6000_11)": 5954391,
+    "SUM(I6000_13)": 2822584
+  },
+  {
+    "DistrictName": "Pudukkottai",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 387679,
+    "SUM(I6000_11)": 1618345,
+    "SUM(I6000_13)": 815157
+  },
+  {
+    "DistrictName": "Pulwama",
+    "StateName": "Jammu And Kashmir",
+    "Year": "2011",
+    "SUM(I6000_10)": 86241,
+    "SUM(I6000_11)": 560440,
+    "SUM(I6000_13)": 267376
+  },
+  {
+    "DistrictName": "Pune",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 2151503,
+    "SUM(I6000_11)": 9429408,
+    "SUM(I6000_13)": 4505303
+  },
+  {
+    "DistrictName": "Purba Bardhaman",
+    "StateName": "West Bengal",
+    "Year": "2011",
+    "SUM(I6000_10)": 1237426,
+    "SUM(I6000_11)": 5424058,
+    "SUM(I6000_13)": 2648560
+  },
+  {
+    "DistrictName": "Purbi Champaran",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 981516,
+    "SUM(I6000_11)": 5099371,
+    "SUM(I6000_13)": 2418162
+  },
+  {
+    "DistrictName": "Puri",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 366892,
+    "SUM(I6000_11)": 1697016,
+    "SUM(I6000_13)": 832511
+  },
+  {
+    "DistrictName": "Purnia",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 647777,
+    "SUM(I6000_11)": 3264619,
+    "SUM(I6000_13)": 1565249
+  },
+  {
+    "DistrictName": "Purulia",
+    "StateName": "West Bengal",
+    "Year": "2011",
+    "SUM(I6000_10)": 567824,
+    "SUM(I6000_11)": 2930115,
+    "SUM(I6000_13)": 1433119
+  },
+  {
+    "DistrictName": "Rae Bareli",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 533276,
+    "SUM(I6000_11)": 2903507,
+    "SUM(I6000_13)": 1408263
+  },
+  {
+    "DistrictName": "Raichur",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 363853,
+    "SUM(I6000_11)": 1928812,
+    "SUM(I6000_13)": 964301
+  },
+  {
+    "DistrictName": "Raigad",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 611790,
+    "SUM(I6000_11)": 2634200,
+    "SUM(I6000_13)": 1289855
+  },
+  {
+    "DistrictName": "Raigarh",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 367962,
+    "SUM(I6000_11)": 1493984,
+    "SUM(I6000_13)": 743706
+  },
+  {
+    "DistrictName": "Raipur",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 452544,
+    "SUM(I6000_11)": 2160876,
+    "SUM(I6000_13)": 1060015
+  },
+  {
+    "DistrictName": "Raisen",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 278895,
+    "SUM(I6000_11)": 1331597,
+    "SUM(I6000_13)": 631239
+  },
+  {
+    "DistrictName": "Rajanna Sircilla",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 138992,
+    "SUM(I6000_11)": 552037,
+    "SUM(I6000_13)": 277928
+  },
+  {
+    "DistrictName": "Rajgarh",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 345297,
+    "SUM(I6000_11)": 1545814,
+    "SUM(I6000_13)": 755602
+  },
+  {
+    "DistrictName": "Rajkot",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 636589,
+    "SUM(I6000_11)": 3041852,
+    "SUM(I6000_13)": 1460376
+  },
+  {
+    "DistrictName": "Rajnandgaon",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 318488,
+    "SUM(I6000_11)": 1537133,
+    "SUM(I6000_13)": 774278
+  },
+  {
+    "DistrictName": "Rajouri",
+    "StateName": "Jammu And Kashmir",
+    "Year": "2011",
+    "SUM(I6000_10)": 130401,
+    "SUM(I6000_11)": 642415,
+    "SUM(I6000_13)": 297064
+  },
+  {
+    "DistrictName": "Rajsamand",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 243261,
+    "SUM(I6000_11)": 1157477,
+    "SUM(I6000_13)": 575716
+  },
+  {
+    "DistrictName": "Ramanagara",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 260533,
+    "SUM(I6000_11)": 1082636,
+    "SUM(I6000_13)": 534628
+  },
+  {
+    "DistrictName": "Ramanathapuram",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 323905,
+    "SUM(I6000_11)": 1353445,
+    "SUM(I6000_13)": 670787
+  },
+  {
+    "DistrictName": "Ramban",
+    "StateName": "Jammu And Kashmir",
+    "Year": "2011",
+    "SUM(I6000_10)": 55490,
+    "SUM(I6000_11)": 283713,
+    "SUM(I6000_13)": 134581
+  },
+  {
+    "DistrictName": "Ramgarh",
+    "StateName": "Jharkhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 179375,
+    "SUM(I6000_11)": 949443,
+    "SUM(I6000_13)": 455213
+  },
+  {
+    "DistrictName": "Rampur",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 393736,
+    "SUM(I6000_11)": 2335819,
+    "SUM(I6000_13)": 1111930
+  },
+  {
+    "DistrictName": "Ranchi",
+    "StateName": "Jharkhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 569444,
+    "SUM(I6000_11)": 2914253,
+    "SUM(I6000_13)": 1419316
+  },
+  {
+    "DistrictName": "Ranga Reddy",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 563565,
+    "SUM(I6000_11)": 2446265,
+    "SUM(I6000_13)": 1192081
+  },
+  {
+    "DistrictName": "Ranipet",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 289242,
+    "SUM(I6000_11)": 1199984,
+    "SUM(I6000_13)": 601938
+  },
+  {
+    "DistrictName": "Ratlam",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 296683,
+    "SUM(I6000_11)": 1455069,
+    "SUM(I6000_13)": 716828
+  },
+  {
+    "DistrictName": "Ratnagiri",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 397115,
+    "SUM(I6000_11)": 1615069,
+    "SUM(I6000_13)": 853948
+  },
+  {
+    "DistrictName": "Rayagada",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 226144,
+    "SUM(I6000_11)": 967911,
+    "SUM(I6000_13)": 495951
+  },
+  {
+    "DistrictName": "Reasi",
+    "StateName": "Jammu And Kashmir",
+    "Year": "2011",
+    "SUM(I6000_10)": 56689,
+    "SUM(I6000_11)": 314667,
+    "SUM(I6000_13)": 148206
+  },
+  {
+    "DistrictName": "Rewa",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 526065,
+    "SUM(I6000_11)": 2365106,
+    "SUM(I6000_13)": 1140006
+  },
+  {
+    "DistrictName": "Rewari",
+    "StateName": "Haryana",
+    "Year": "2011",
+    "SUM(I6000_10)": 178043,
+    "SUM(I6000_11)": 900332,
+    "SUM(I6000_13)": 425997
+  },
+  {
+    "DistrictName": "Ri Bhoi",
+    "StateName": "Meghalaya",
+    "Year": "2011",
+    "SUM(I6000_10)": 46872,
+    "SUM(I6000_11)": 258840,
+    "SUM(I6000_13)": 126309
+  },
+  {
+    "DistrictName": "Rohtak",
+    "StateName": "Haryana",
+    "Year": "2011",
+    "SUM(I6000_10)": 206988,
+    "SUM(I6000_11)": 1061204,
+    "SUM(I6000_13)": 492725
+  },
+  {
+    "DistrictName": "Rohtas",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 460345,
+    "SUM(I6000_11)": 2959918,
+    "SUM(I6000_13)": 1416372
+  },
+  {
+    "DistrictName": "Rudra Prayag",
+    "StateName": "Uttarakhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 57340,
+    "SUM(I6000_11)": 264543,
+    "SUM(I6000_13)": 137965
+  },
+  {
+    "DistrictName": "Rupnagar",
+    "StateName": "Punjab",
+    "Year": "2011",
+    "SUM(I6000_10)": 135635,
+    "SUM(I6000_11)": 684627,
+    "SUM(I6000_13)": 327142
+  },
+  {
+    "DistrictName": "Sabar Kantha",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 278187,
+    "SUM(I6000_11)": 1405074,
+    "SUM(I6000_13)": 684839
+  },
+  {
+    "DistrictName": "Sagar",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 515085,
+    "SUM(I6000_11)": 2364790,
+    "SUM(I6000_13)": 1115685
+  },
+  {
+    "DistrictName": "Saharanpur",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 597656,
+    "SUM(I6000_11)": 3466382,
+    "SUM(I6000_13)": 1632276
+  },
+  {
+    "DistrictName": "Saharsa",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 368979,
+    "SUM(I6000_11)": 1900661,
+    "SUM(I6000_13)": 903487
+  },
+  {
+    "DistrictName": "Sahebganj",
+    "StateName": "Jharkhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 227023,
+    "SUM(I6000_11)": 1150567,
+    "SUM(I6000_13)": 561176
+  },
+  {
+    "DistrictName": "Saiha",
+    "StateName": "Mizoram",
+    "Year": "2011",
+    "SUM(I6000_10)": 11144,
+    "SUM(I6000_11)": 56574,
+    "SUM(I6000_13)": 27980
+  },
+  {
+    "DistrictName": "Saitual",
+    "StateName": "Mizoram",
+    "Year": "2011",
+    "SUM(I6000_10)": 7762,
+    "SUM(I6000_11)": 38956,
+    "SUM(I6000_13)": 19076
+  },
+  {
+    "DistrictName": "Salem",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 915967,
+    "SUM(I6000_11)": 3482056,
+    "SUM(I6000_13)": 1700485
+  },
+  {
+    "DistrictName": "Samastipur",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 835493,
+    "SUM(I6000_11)": 4261566,
+    "SUM(I6000_13)": 2031563
+  },
+  {
+    "DistrictName": "Samba",
+    "StateName": "Jammu And Kashmir",
+    "Year": "2011",
+    "SUM(I6000_10)": 64071,
+    "SUM(I6000_11)": 312807,
+    "SUM(I6000_13)": 146852
+  },
+  {
+    "DistrictName": "Sambalpur",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 250253,
+    "SUM(I6000_11)": 1043889,
+    "SUM(I6000_13)": 515559
+  },
+  {
+    "DistrictName": "Sambhal",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 362539,
+    "SUM(I6000_11)": 2199782,
+    "SUM(I6000_13)": 1036219
+  },
+  {
+    "DistrictName": "Sangareddy",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 329208,
+    "SUM(I6000_11)": 1527628,
+    "SUM(I6000_13)": 750393
+  },
+  {
+    "DistrictName": "Sangli",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 598386,
+    "SUM(I6000_11)": 2822143,
+    "SUM(I6000_13)": 1386415
+  },
+  {
+    "DistrictName": "Sangrur",
+    "StateName": "Punjab",
+    "Year": "2011",
+    "SUM(I6000_10)": 236086,
+    "SUM(I6000_11)": 1225156,
+    "SUM(I6000_13)": 573907
+  },
+  {
+    "DistrictName": "Sant Kabeer Nagar",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 256645,
+    "SUM(I6000_11)": 1715183,
+    "SUM(I6000_13)": 845527
+  },
+  {
+    "DistrictName": "Saraikela Kharsawan",
+    "StateName": "Jharkhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 221232,
+    "SUM(I6000_11)": 1065056,
+    "SUM(I6000_13)": 520645
+  },
+  {
+    "DistrictName": "Saran",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 631097,
+    "SUM(I6000_11)": 3951862,
+    "SUM(I6000_13)": 1929041
+  },
+  {
+    "DistrictName": "S.A.S Nagar",
+    "StateName": "Punjab",
+    "Year": "2011",
+    "SUM(I6000_10)": 198489,
+    "SUM(I6000_11)": 957272,
+    "SUM(I6000_13)": 447877
+  },
+  {
+    "DistrictName": "Satara",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 653735,
+    "SUM(I6000_11)": 3003741,
+    "SUM(I6000_13)": 1492899
+  },
+  {
+    "DistrictName": "Satna",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 480442,
+    "SUM(I6000_11)": 2238014,
+    "SUM(I6000_13)": 1075678
+  },
+  {
+    "DistrictName": "Sawai Madhopur",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 254716,
+    "SUM(I6000_11)": 1335551,
+    "SUM(I6000_13)": 631520
+  },
+  {
+    "DistrictName": "Sehore",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 257311,
+    "SUM(I6000_11)": 1311332,
+    "SUM(I6000_13)": 627589
+  },
+  {
+    "DistrictName": "Senapati",
+    "StateName": "Manipur",
+    "Year": "2011",
+    "SUM(I6000_10)": 47411,
+    "SUM(I6000_11)": 285404,
+    "SUM(I6000_13)": 136989
+  },
+  {
+    "DistrictName": "Seoni",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 314767,
+    "SUM(I6000_11)": 1379131,
+    "SUM(I6000_13)": 683252
+  },
+  {
+    "DistrictName": "Sepahijala",
+    "StateName": "Tripura",
+    "Year": "2011",
+    "SUM(I6000_10)": 109633,
+    "SUM(I6000_11)": 479975,
+    "SUM(I6000_13)": 234100
+  },
+  {
+    "DistrictName": "Serchhip",
+    "StateName": "Mizoram",
+    "Year": "2011",
+    "SUM(I6000_10)": 13183,
+    "SUM(I6000_11)": 67517,
+    "SUM(I6000_13)": 33367
+  },
+  {
+    "DistrictName": "Shahdara",
+    "StateName": "Delhi",
+    "Year": "2011",
+    "SUM(I6000_10)": 37532,
+    "SUM(I6000_11)": 212076,
+    "SUM(I6000_13)": 99729
+  },
+  {
+    "DistrictName": "Shahdol",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 253556,
+    "SUM(I6000_11)": 1075740,
+    "SUM(I6000_13)": 530753
+  },
+  {
+    "DistrictName": "Shahid Bhagat Singh Nagar",
+    "StateName": "Punjab",
+    "Year": "2011",
+    "SUM(I6000_10)": 129500,
+    "SUM(I6000_11)": 612310,
+    "SUM(I6000_13)": 299019
+  },
+  {
+    "DistrictName": "Shahjahanpur",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 527501,
+    "SUM(I6000_11)": 3006538,
+    "SUM(I6000_13)": 1400135
+  },
+  {
+    "DistrictName": "Shajapur",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 184154,
+    "SUM(I6000_11)": 941403,
+    "SUM(I6000_13)": 453935
+  },
+  {
+    "DistrictName": "Shamli",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 213865,
+    "SUM(I6000_11)": 1313647,
+    "SUM(I6000_13)": 614259
+  },
+  {
+    "DistrictName": "Sheikhpura",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 100701,
+    "SUM(I6000_11)": 636342,
+    "SUM(I6000_13)": 306599
+  },
+  {
+    "DistrictName": "Sheohar",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 150144,
+    "SUM(I6000_11)": 656246,
+    "SUM(I6000_13)": 309573
+  },
+  {
+    "DistrictName": "Sheopur",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 146043,
+    "SUM(I6000_11)": 687861,
+    "SUM(I6000_13)": 326077
+  },
+  {
+    "DistrictName": "Shimla",
+    "StateName": "Himachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 184362,
+    "SUM(I6000_11)": 814010,
+    "SUM(I6000_13)": 388971
+  },
+  {
+    "DistrictName": "Shivamogga",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 406816,
+    "SUM(I6000_11)": 1752753,
+    "SUM(I6000_13)": 875338
+  },
+  {
+    "DistrictName": "Shivpuri",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 356444,
+    "SUM(I6000_11)": 1708258,
+    "SUM(I6000_13)": 798239
+  },
+  {
+    "DistrictName": "Shi Yomi",
+    "StateName": "Arunachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 2253,
+    "SUM(I6000_11)": 13310,
+    "SUM(I6000_13)": 6487
+  },
+  {
+    "DistrictName": "Shopian",
+    "StateName": "Jammu And Kashmir",
+    "Year": "2011",
+    "SUM(I6000_10)": 44411,
+    "SUM(I6000_11)": 266215,
+    "SUM(I6000_13)": 129735
+  },
+  {
+    "DistrictName": "Shravasti",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 188289,
+    "SUM(I6000_11)": 1117361,
+    "SUM(I6000_13)": 523464
+  },
+  {
+    "DistrictName": "Siang",
+    "StateName": "Arunachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 5927,
+    "SUM(I6000_11)": 31920,
+    "SUM(I6000_13)": 15320
+  },
+  {
+    "DistrictName": "Siddharth Nagar",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 379351,
+    "SUM(I6000_11)": 2559297,
+    "SUM(I6000_13)": 1264202
+  },
+  {
+    "DistrictName": "Siddipet",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 238049,
+    "SUM(I6000_11)": 1012065,
+    "SUM(I6000_13)": 507924
+  },
+  {
+    "DistrictName": "Sidhi",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 238448,
+    "SUM(I6000_11)": 1127033,
+    "SUM(I6000_13)": 551121
+  },
+  {
+    "DistrictName": "Sikar",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 444660,
+    "SUM(I6000_11)": 2676419,
+    "SUM(I6000_13)": 1301888
+  },
+  {
+    "DistrictName": "Simdega",
+    "StateName": "Jharkhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 118288,
+    "SUM(I6000_11)": 599578,
+    "SUM(I6000_13)": 299269
+  },
+  {
+    "DistrictName": "Sindhudurg",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 209839,
+    "SUM(I6000_11)": 849651,
+    "SUM(I6000_13)": 432319
+  },
+  {
+    "DistrictName": "Singrauli",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 243925,
+    "SUM(I6000_11)": 1178273,
+    "SUM(I6000_13)": 564636
+  },
+  {
+    "DistrictName": "Sirmaur",
+    "StateName": "Himachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 98208,
+    "SUM(I6000_11)": 529855,
+    "SUM(I6000_13)": 253566
+  },
+  {
+    "DistrictName": "Sirohi",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 201941,
+    "SUM(I6000_11)": 1037260,
+    "SUM(I6000_13)": 502570
+  },
+  {
+    "DistrictName": "Sirsa",
+    "StateName": "Haryana",
+    "Year": "2011",
+    "SUM(I6000_10)": 246571,
+    "SUM(I6000_11)": 1295189,
+    "SUM(I6000_13)": 612607
+  },
+  {
+    "DistrictName": "Sitamarhi",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 736322,
+    "SUM(I6000_11)": 3423574,
+    "SUM(I6000_13)": 1620322
+  },
+  {
+    "DistrictName": "Sitapur",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 801764,
+    "SUM(I6000_11)": 4483992,
+    "SUM(I6000_13)": 2108728
+  },
+  {
+    "DistrictName": "Sivaganga",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 336505,
+    "SUM(I6000_11)": 1329536,
+    "SUM(I6000_13)": 665731
+  },
+  {
+    "DistrictName": "Sivasagar",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 156277,
+    "SUM(I6000_11)": 714035,
+    "SUM(I6000_13)": 348382
+  },
+  {
+    "DistrictName": "Siwan",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 535661,
+    "SUM(I6000_11)": 3330464,
+    "SUM(I6000_13)": 1655374
+  },
+  {
+    "DistrictName": "Solan",
+    "StateName": "Himachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 122425,
+    "SUM(I6000_11)": 580320,
+    "SUM(I6000_13)": 271566
+  },
+  {
+    "DistrictName": "Solapur",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 873167,
+    "SUM(I6000_11)": 4317756,
+    "SUM(I6000_13)": 2089904
+  },
+  {
+    "DistrictName": "Sonbhadra",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 333174,
+    "SUM(I6000_11)": 1862559,
+    "SUM(I6000_13)": 891215
+  },
+  {
+    "DistrictName": "Sonepur",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 151136,
+    "SUM(I6000_11)": 610183,
+    "SUM(I6000_13)": 298871
+  },
+  {
+    "DistrictName": "Sonipat",
+    "StateName": "Haryana",
+    "Year": "2011",
+    "SUM(I6000_10)": 277726,
+    "SUM(I6000_11)": 1450001,
+    "SUM(I6000_13)": 668702
+  },
+  {
+    "DistrictName": "Sonitpur",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 244618,
+    "SUM(I6000_11)": 1190010,
+    "SUM(I6000_13)": 578973
+  },
+  {
+    "DistrictName": "South",
+    "StateName": "Delhi",
+    "Year": "2011",
+    "SUM(I6000_10)": 90293,
+    "SUM(I6000_11)": 454314,
+    "SUM(I6000_13)": 209375
+  },
+  {
+    "DistrictName": "South Andamans",
+    "StateName": "Andaman And Nicobar Islands",
+    "Year": "2011",
+    "SUM(I6000_10)": 59064,
+    "SUM(I6000_11)": 238142,
+    "SUM(I6000_13)": 110859
+  },
+  {
+    "DistrictName": "South District",
+    "StateName": "Sikkim",
+    "Year": "2011",
+    "SUM(I6000_10)": 30544,
+    "SUM(I6000_11)": 146853,
+    "SUM(I6000_13)": 70182
+  },
+  {
+    "DistrictName": "South East",
+    "StateName": "Delhi",
+    "Year": "2011",
+    "SUM(I6000_10)": 81949,
+    "SUM(I6000_11)": 403735,
+    "SUM(I6000_13)": 185640
+  },
+  {
+    "DistrictName": "South Garo Hills",
+    "StateName": "Meghalaya",
+    "Year": "2011",
+    "SUM(I6000_10)": 24527,
+    "SUM(I6000_11)": 142334,
+    "SUM(I6000_13)": 69164
+  },
+  {
+    "DistrictName": "South Goa",
+    "StateName": "Goa",
+    "Year": "2011",
+    "SUM(I6000_10)": 190194,
+    "SUM(I6000_11)": 806367,
+    "SUM(I6000_13)": 398412
+  },
+  {
+    "DistrictName": "South Salmara Mancachar",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 89679,
+    "SUM(I6000_11)": 388699,
+    "SUM(I6000_13)": 191270
+  },
+  {
+    "DistrictName": "South Tripura",
+    "StateName": "Tripura",
+    "Year": "2011",
+    "SUM(I6000_10)": 104683,
+    "SUM(I6000_11)": 430751,
+    "SUM(I6000_13)": 210589
+  },
+  {
+    "DistrictName": "South West",
+    "StateName": "Delhi",
+    "Year": "2011",
+    "SUM(I6000_10)": 447421,
+    "SUM(I6000_11)": 2105512,
+    "SUM(I6000_13)": 971665
+  },
+  {
+    "DistrictName": "South West Garo Hills",
+    "StateName": "Meghalaya",
+    "Year": "2011",
+    "SUM(I6000_10)": 34199,
+    "SUM(I6000_11)": 174313,
+    "SUM(I6000_13)": 86254
+  },
+  {
+    "DistrictName": "South West Khasi Hills",
+    "StateName": "Meghalaya",
+    "Year": "2011",
+    "SUM(I6000_10)": 17047,
+    "SUM(I6000_11)": 99171,
+    "SUM(I6000_13)": 48836
+  },
+  {
+    "DistrictName": "Spsr Nellore",
+    "StateName": "Andhra Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 776854,
+    "SUM(I6000_11)": 2963557,
+    "SUM(I6000_13)": 1470583
+  },
+  {
+    "DistrictName": "Srikakulam",
+    "StateName": "Andhra Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 681330,
+    "SUM(I6000_11)": 2703114,
+    "SUM(I6000_13)": 1361376
+  },
+  {
+    "DistrictName": "Sri Muktsar Sahib",
+    "StateName": "Punjab",
+    "Year": "2011",
+    "SUM(I6000_10)": 174360,
+    "SUM(I6000_11)": 901896,
+    "SUM(I6000_13)": 426274
+  },
+  {
+    "DistrictName": "Srinagar",
+    "StateName": "Jammu And Kashmir",
+    "Year": "2011",
+    "SUM(I6000_10)": 191678,
+    "SUM(I6000_11)": 1236829,
+    "SUM(I6000_13)": 585705
+  },
+  {
+    "DistrictName": "Sukma",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 60458,
+    "SUM(I6000_11)": 271441,
+    "SUM(I6000_13)": 136988
+  },
+  {
+    "DistrictName": "Sultanpur",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 392051,
+    "SUM(I6000_11)": 2436256,
+    "SUM(I6000_13)": 1207342
+  },
+  {
+    "DistrictName": "Sundargarh",
+    "StateName": "Odisha",
+    "Year": "2011",
+    "SUM(I6000_10)": 479109,
+    "SUM(I6000_11)": 2093437,
+    "SUM(I6000_13)": 1032290
+  },
+  {
+    "DistrictName": "Supaul",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 443073,
+    "SUM(I6000_11)": 2229076,
+    "SUM(I6000_13)": 1073793
+  },
+  {
+    "DistrictName": "Surajpur",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 176294,
+    "SUM(I6000_11)": 784387,
+    "SUM(I6000_13)": 388427
+  },
+  {
+    "DistrictName": "Surat",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 1333200,
+    "SUM(I6000_11)": 6081322,
+    "SUM(I6000_13)": 2679098
+  },
+  {
+    "DistrictName": "Surendranagar",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 304725,
+    "SUM(I6000_11)": 1553936,
+    "SUM(I6000_13)": 748346
+  },
+  {
+    "DistrictName": "Surguja",
+    "StateName": "Chhattisgarh",
+    "Year": "2011",
+    "SUM(I6000_10)": 189869,
+    "SUM(I6000_11)": 845008,
+    "SUM(I6000_13)": 418095
+  },
+  {
+    "DistrictName": "Suryapet",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 285691,
+    "SUM(I6000_11)": 1099560,
+    "SUM(I6000_13)": 548586
+  },
+  {
+    "DistrictName": "Tamenglong",
+    "StateName": "Manipur",
+    "Year": "2011",
+    "SUM(I6000_10)": 14680,
+    "SUM(I6000_11)": 83482,
+    "SUM(I6000_13)": 40489
+  },
+  {
+    "DistrictName": "Tapi",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 177091,
+    "SUM(I6000_11)": 807022,
+    "SUM(I6000_13)": 404834
+  },
+  {
+    "DistrictName": "Tarn Taran",
+    "StateName": "Punjab",
+    "Year": "2011",
+    "SUM(I6000_10)": 203470,
+    "SUM(I6000_11)": 1119911,
+    "SUM(I6000_13)": 530387
+  },
+  {
+    "DistrictName": "Tawang",
+    "StateName": "Arunachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 10062,
+    "SUM(I6000_11)": 49977,
+    "SUM(I6000_13)": 20826
+  },
+  {
+    "DistrictName": "Tehri Garhwal",
+    "StateName": "Uttarakhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 132891,
+    "SUM(I6000_11)": 619647,
+    "SUM(I6000_13)": 321284
+  },
+  {
+    "DistrictName": "Tengnoupal",
+    "StateName": "Manipur",
+    "Year": "2011",
+    "SUM(I6000_10)": 12348,
+    "SUM(I6000_11)": 59340,
+    "SUM(I6000_13)": 28918
+  },
+  {
+    "DistrictName": "Tenkasi",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 390849,
+    "SUM(I6000_11)": 1452596,
+    "SUM(I6000_13)": 732549
+  },
+  {
+    "DistrictName": "Thane",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 1859342,
+    "SUM(I6000_11)": 8070032,
+    "SUM(I6000_13)": 3750733
+  },
+  {
+    "DistrictName": "Thanjavur",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 607796,
+    "SUM(I6000_11)": 2415455,
+    "SUM(I6000_13)": 1228172
+  },
+  {
+    "DistrictName": "Theni",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 337649,
+    "SUM(I6000_11)": 1242352,
+    "SUM(I6000_13)": 618577
+  },
+  {
+    "DistrictName": "The Nilgiris",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 196449,
+    "SUM(I6000_11)": 724718,
+    "SUM(I6000_13)": 369249
+  },
+  {
+    "DistrictName": "Thiruvallur",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 596667,
+    "SUM(I6000_11)": 2353382,
+    "SUM(I6000_13)": 1171268
+  },
+  {
+    "DistrictName": "Thiruvananthapuram",
+    "StateName": "Kerala",
+    "Year": "2011",
+    "SUM(I6000_10)": 837877,
+    "SUM(I6000_11)": 3301427,
+    "SUM(I6000_13)": 1719749
+  },
+  {
+    "DistrictName": "Thiruvarur",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 327219,
+    "SUM(I6000_11)": 1264277,
+    "SUM(I6000_13)": 637584
+  },
+  {
+    "DistrictName": "Thoubal",
+    "StateName": "Manipur",
+    "Year": "2011",
+    "SUM(I6000_10)": 53953,
+    "SUM(I6000_11)": 267505,
+    "SUM(I6000_13)": 133790
+  },
+  {
+    "DistrictName": "Thrissur",
+    "StateName": "Kerala",
+    "Year": "2011",
+    "SUM(I6000_10)": 759210,
+    "SUM(I6000_11)": 3121200,
+    "SUM(I6000_13)": 1640437
+  },
+  {
+    "DistrictName": "Tikamgarh",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 215789,
+    "SUM(I6000_11)": 1058163,
+    "SUM(I6000_13)": 502033
+  },
+  {
+    "DistrictName": "Tinsukia",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 268598,
+    "SUM(I6000_11)": 1327929,
+    "SUM(I6000_13)": 647698
+  },
+  {
+    "DistrictName": "Tirap",
+    "StateName": "Arunachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 7478,
+    "SUM(I6000_11)": 38446,
+    "SUM(I6000_13)": 18713
+  },
+  {
+    "DistrictName": "Tiruchirappalli",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 698404,
+    "SUM(I6000_11)": 2722290,
+    "SUM(I6000_13)": 1370006
+  },
+  {
+    "DistrictName": "Tirunelveli",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 431180,
+    "SUM(I6000_11)": 1646483,
+    "SUM(I6000_13)": 834879
+  },
+  {
+    "DistrictName": "Tirupathur",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 269935,
+    "SUM(I6000_11)": 1166972,
+    "SUM(I6000_13)": 581829
+  },
+  {
+    "DistrictName": "Tiruppur",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 711252,
+    "SUM(I6000_11)": 2475979,
+    "SUM(I6000_13)": 1231344
+  },
+  {
+    "DistrictName": "Tiruvannamalai",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 588836,
+    "SUM(I6000_11)": 2464875,
+    "SUM(I6000_13)": 1228986
+  },
+  {
+    "DistrictName": "Tonk",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 266870,
+    "SUM(I6000_11)": 1421326,
+    "SUM(I6000_13)": 693190
+  },
+  {
+    "DistrictName": "Tuensang",
+    "StateName": "Nagaland",
+    "Year": "2011",
+    "SUM(I6000_10)": 26321,
+    "SUM(I6000_11)": 140990,
+    "SUM(I6000_13)": 68009
+  },
+  {
+    "DistrictName": "Tumakuru",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 640081,
+    "SUM(I6000_11)": 2678980,
+    "SUM(I6000_13)": 1328386
+  },
+  {
+    "DistrictName": "Tuticorin",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 455509,
+    "SUM(I6000_11)": 1728330,
+    "SUM(I6000_13)": 874048
+  },
+  {
+    "DistrictName": "Udaipur",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 623686,
+    "SUM(I6000_11)": 3069175,
+    "SUM(I6000_13)": 1501938
+  },
+  {
+    "DistrictName": "Udalguri",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 174945,
+    "SUM(I6000_11)": 866000,
+    "SUM(I6000_13)": 426880
+  },
+  {
+    "DistrictName": "Udam Singh Nagar",
+    "StateName": "Uttarakhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 304783,
+    "SUM(I6000_11)": 1626644,
+    "SUM(I6000_13)": 779850
+  },
+  {
+    "DistrictName": "Udhampur",
+    "StateName": "Jammu And Kashmir",
+    "Year": "2011",
+    "SUM(I6000_10)": 99906,
+    "SUM(I6000_11)": 558201,
+    "SUM(I6000_13)": 259732
+  },
+  {
+    "DistrictName": "Udupi",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 253078,
+    "SUM(I6000_11)": 1177361,
+    "SUM(I6000_13)": 615230
+  },
+  {
+    "DistrictName": "Ujjain",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 391438,
+    "SUM(I6000_11)": 1986864,
+    "SUM(I6000_13)": 970575
+  },
+  {
+    "DistrictName": "Ukhrul",
+    "StateName": "Manipur",
+    "Year": "2011",
+    "SUM(I6000_10)": 24721,
+    "SUM(I6000_11)": 127444,
+    "SUM(I6000_13)": 61762
+  },
+  {
+    "DistrictName": "Umaria",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 145024,
+    "SUM(I6000_11)": 644758,
+    "SUM(I6000_13)": 314084
+  },
+  {
+    "DistrictName": "Una",
+    "StateName": "Himachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 110332,
+    "SUM(I6000_11)": 521173,
+    "SUM(I6000_13)": 257481
+  },
+  {
+    "DistrictName": "Unakoti",
+    "StateName": "Tripura",
+    "Year": "2011",
+    "SUM(I6000_10)": 62061,
+    "SUM(I6000_11)": 276506,
+    "SUM(I6000_13)": 136296
+  },
+  {
+    "DistrictName": "Unknown Districts Of India",
+    "StateName": "Arunachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 61,
+    "SUM(I6000_11)": 254,
+    "SUM(I6000_13)": 128
+  },
+  {
+    "DistrictName": "Unknown Districts Of India",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 3446,
+    "SUM(I6000_11)": 16187,
+    "SUM(I6000_13)": 7738
+  },
+  {
+    "DistrictName": "Unknown Districts Of India",
+    "StateName": "Delhi",
+    "Year": "2011",
+    "SUM(I6000_10)": 887561,
+    "SUM(I6000_11)": 4341751,
+    "SUM(I6000_13)": 2030357
+  },
+  {
+    "DistrictName": "Unknown Districts Of India",
+    "StateName": "Jammu And Kashmir",
+    "Year": "2011",
+    "SUM(I6000_10)": 1411,
+    "SUM(I6000_11)": 8796,
+    "SUM(I6000_13)": 4337
+  },
+  {
+    "DistrictName": "Unknown Districts Of India",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 3081,
+    "SUM(I6000_11)": 15809,
+    "SUM(I6000_13)": 7735
+  },
+  {
+    "DistrictName": "Unknown Districts Of India",
+    "StateName": "Manipur",
+    "Year": "2011",
+    "SUM(I6000_10)": 5963,
+    "SUM(I6000_11)": 31195,
+    "SUM(I6000_13)": 15479
+  },
+  {
+    "DistrictName": "Unknown Districts Of India",
+    "StateName": "Meghalaya",
+    "Year": "2011",
+    "SUM(I6000_10)": 216,
+    "SUM(I6000_11)": 1052,
+    "SUM(I6000_13)": 527
+  },
+  {
+    "DistrictName": "Unknown Districts Of India",
+    "StateName": "Mizoram",
+    "Year": "2011",
+    "SUM(I6000_10)": 1929,
+    "SUM(I6000_11)": 8949,
+    "SUM(I6000_13)": 4299
+  },
+  {
+    "DistrictName": "Unknown Districts Of India",
+    "StateName": "Rajasthan",
+    "Year": "2011",
+    "SUM(I6000_10)": 5671,
+    "SUM(I6000_11)": 30320,
+    "SUM(I6000_13)": 15041
+  },
+  {
+    "DistrictName": "Unknown Districts Of India",
+    "StateName": "Sikkim",
+    "Year": "2011",
+    "SUM(I6000_10)": 51,
+    "SUM(I6000_11)": 276,
+    "SUM(I6000_13)": 110
+  },
+  {
+    "DistrictName": "Unknown Districts Of India",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 20031,
+    "SUM(I6000_11)": 84336,
+    "SUM(I6000_13)": 41840
+  },
+  {
+    "DistrictName": "Unnao",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 588533,
+    "SUM(I6000_11)": 3108367,
+    "SUM(I6000_13)": 1478280
+  },
+  {
+    "DistrictName": "Upper Siang",
+    "StateName": "Arunachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 8388,
+    "SUM(I6000_11)": 39604,
+    "SUM(I6000_13)": 18626
+  },
+  {
+    "DistrictName": "Upper Subansiri",
+    "StateName": "Arunachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 12007,
+    "SUM(I6000_11)": 63220,
+    "SUM(I6000_13)": 31706
+  },
+  {
+    "DistrictName": "Uttara Kannada",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 324530,
+    "SUM(I6000_11)": 1437169,
+    "SUM(I6000_13)": 710913
+  },
+  {
+    "DistrictName": "Uttar Kashi",
+    "StateName": "Uttarakhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 67602,
+    "SUM(I6000_11)": 330086,
+    "SUM(I6000_13)": 161489
+  },
+  {
+    "DistrictName": "Vadodara",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 676492,
+    "SUM(I6000_11)": 3093795,
+    "SUM(I6000_13)": 1484908
+  },
+  {
+    "DistrictName": "Vaishali",
+    "StateName": "Bihar",
+    "Year": "2011",
+    "SUM(I6000_10)": 630637,
+    "SUM(I6000_11)": 3517424,
+    "SUM(I6000_13)": 1661139
+  },
+  {
+    "DistrictName": "Valsad",
+    "StateName": "Gujarat",
+    "Year": "2011",
+    "SUM(I6000_10)": 364403,
+    "SUM(I6000_11)": 1705678,
+    "SUM(I6000_13)": 818456
+  },
+  {
+    "DistrictName": "Varanasi",
+    "StateName": "Uttar Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 560162,
+    "SUM(I6000_11)": 3676841,
+    "SUM(I6000_13)": 1754984
+  },
+  {
+    "DistrictName": "Vellore",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 370104,
+    "SUM(I6000_11)": 1569375,
+    "SUM(I6000_13)": 790876
+  },
+  {
+    "DistrictName": "Vidisha",
+    "StateName": "Madhya Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 299676,
+    "SUM(I6000_11)": 1458875,
+    "SUM(I6000_13)": 689307
+  },
+  {
+    "DistrictName": "Vijayapura",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 348826,
+    "SUM(I6000_11)": 1871439,
+    "SUM(I6000_13)": 914674
+  },
+  {
+    "DistrictName": "Vikarabad",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 194956,
+    "SUM(I6000_11)": 927140,
+    "SUM(I6000_13)": 463790
+  },
+  {
+    "DistrictName": "Villupuram",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 476898,
+    "SUM(I6000_11)": 2043355,
+    "SUM(I6000_13)": 1016792
+  },
+  {
+    "DistrictName": "Virudhunagar",
+    "StateName": "Tamil Nadu",
+    "Year": "2011",
+    "SUM(I6000_10)": 537748,
+    "SUM(I6000_11)": 1942288,
+    "SUM(I6000_13)": 974579
+  },
+  {
+    "DistrictName": "Visakhapatanam",
+    "StateName": "Andhra Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 1097042,
+    "SUM(I6000_11)": 4290589,
+    "SUM(I6000_13)": 2151679
+  },
+  {
+    "DistrictName": "Vizianagaram",
+    "StateName": "Andhra Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 587149,
+    "SUM(I6000_11)": 2344474,
+    "SUM(I6000_13)": 1182997
+  },
+  {
+    "DistrictName": "Wanaparthy",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 123544,
+    "SUM(I6000_11)": 577758,
+    "SUM(I6000_13)": 282925
+  },
+  {
+    "DistrictName": "Warangal",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 219307,
+    "SUM(I6000_11)": 863774,
+    "SUM(I6000_13)": 431019
+  },
+  {
+    "DistrictName": "Wardha",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 309846,
+    "SUM(I6000_11)": 1300774,
+    "SUM(I6000_13)": 632389
+  },
+  {
+    "DistrictName": "Washim",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 259464,
+    "SUM(I6000_11)": 1197160,
+    "SUM(I6000_13)": 576858
+  },
+  {
+    "DistrictName": "Wayanad",
+    "StateName": "Kerala",
+    "Year": "2011",
+    "SUM(I6000_10)": 190894,
+    "SUM(I6000_11)": 817420,
+    "SUM(I6000_13)": 415736
+  },
+  {
+    "DistrictName": "West",
+    "StateName": "Delhi",
+    "Year": "2011",
+    "SUM(I6000_10)": 533221,
+    "SUM(I6000_11)": 2543243,
+    "SUM(I6000_13)": 1187003
+  },
+  {
+    "DistrictName": "West District",
+    "StateName": "Sikkim",
+    "Year": "2011",
+    "SUM(I6000_10)": 27996,
+    "SUM(I6000_11)": 136250,
+    "SUM(I6000_13)": 66129
+  },
+  {
+    "DistrictName": "West Garo Hills",
+    "StateName": "Meghalaya",
+    "Year": "2011",
+    "SUM(I6000_10)": 89010,
+    "SUM(I6000_11)": 468349,
+    "SUM(I6000_13)": 232554
+  },
+  {
+    "DistrictName": "West Godavari",
+    "StateName": "Andhra Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 1108916,
+    "SUM(I6000_11)": 3995742,
+    "SUM(I6000_13)": 2001995
+  },
+  {
+    "DistrictName": "West Jaintia Hills",
+    "StateName": "Meghalaya",
+    "Year": "2011",
+    "SUM(I6000_10)": 45272,
+    "SUM(I6000_11)": 272185,
+    "SUM(I6000_13)": 137133
+  },
+  {
+    "DistrictName": "West Kameng",
+    "StateName": "Arunachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 18159,
+    "SUM(I6000_11)": 83947,
+    "SUM(I6000_13)": 37792
+  },
+  {
+    "DistrictName": "West Karbi Anglong",
+    "StateName": "Assam",
+    "Year": "2011",
+    "SUM(I6000_10)": 65948,
+    "SUM(I6000_11)": 359333,
+    "SUM(I6000_13)": 174684
+  },
+  {
+    "DistrictName": "West Khasi Hills",
+    "StateName": "Meghalaya",
+    "Year": "2011",
+    "SUM(I6000_10)": 47786,
+    "SUM(I6000_11)": 283867,
+    "SUM(I6000_13)": 140707
+  },
+  {
+    "DistrictName": "West Siang",
+    "StateName": "Arunachal Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 5714,
+    "SUM(I6000_11)": 31836,
+    "SUM(I6000_13)": 15850
+  },
+  {
+    "DistrictName": "West Singhbhum",
+    "StateName": "Jharkhand",
+    "Year": "2011",
+    "SUM(I6000_10)": 302046,
+    "SUM(I6000_11)": 1502338,
+    "SUM(I6000_13)": 752953
+  },
+  {
+    "DistrictName": "West Tripura",
+    "StateName": "Tripura",
+    "Year": "2011",
+    "SUM(I6000_10)": 223548,
+    "SUM(I6000_11)": 918200,
+    "SUM(I6000_13)": 452048
+  },
+  {
+    "DistrictName": "Wokha",
+    "StateName": "Nagaland",
+    "Year": "2011",
+    "SUM(I6000_10)": 31891,
+    "SUM(I6000_11)": 166343,
+    "SUM(I6000_13)": 81838
+  },
+  {
+    "DistrictName": "Yadadri Bhuvanagiri",
+    "StateName": "Telangana",
+    "Year": "2011",
+    "SUM(I6000_10)": 188520,
+    "SUM(I6000_11)": 770833,
+    "SUM(I6000_13)": 380341
+  },
+  {
+    "DistrictName": "Yadgir",
+    "StateName": "Karnataka",
+    "Year": "2011",
+    "SUM(I6000_10)": 202063,
+    "SUM(I6000_11)": 1174271,
+    "SUM(I6000_13)": 583942
+  },
+  {
+    "DistrictName": "Yamunanagar",
+    "StateName": "Haryana",
+    "Year": "2011",
+    "SUM(I6000_10)": 235423,
+    "SUM(I6000_11)": 1214205,
+    "SUM(I6000_13)": 567487
+  },
+  {
+    "DistrictName": "Yanam",
+    "StateName": "Puducherry",
+    "Year": "2011",
+    "SUM(I6000_10)": 13812,
+    "SUM(I6000_11)": 55626,
+    "SUM(I6000_13)": 28325
+  },
+  {
+    "DistrictName": "Yavatmal",
+    "StateName": "Maharashtra",
+    "Year": "2011",
+    "SUM(I6000_10)": 646886,
+    "SUM(I6000_11)": 2772348,
+    "SUM(I6000_13)": 1352383
+  },
+  {
+    "DistrictName": "Y.S.R.",
+    "StateName": "Andhra Pradesh",
+    "Year": "2011",
+    "SUM(I6000_10)": 706204,
+    "SUM(I6000_11)": 2882469,
+    "SUM(I6000_13)": 1430692
+  },
+  {
+    "DistrictName": "Zunheboto",
+    "StateName": "Nagaland",
+    "Year": "2011",
+    "SUM(I6000_10)": 27835,
+    "SUM(I6000_11)": 140757,
+    "SUM(I6000_13)": 69540
+  }
+]
