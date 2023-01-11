@@ -125,52 +125,113 @@ const config: ControlPanelConfig = {
       ],
     },
     {
-      label: t("Hello Controls!"),
+      label: t("Map Heat Controls"),
       expanded: true,
+      tabOverride: "customize",
       controlSetRows: [
         [
           {
-            name: "header_text",
+            name: "color_scheme",
+            config: { ...sharedControls.color_scheme, default: "mapgreen" },
+          },
+        ],
+        [
+          {
+            name: "hover_template",
             config: {
-              type: "TextControl",
-              default: "Hello, World!",
+              type: "TextAreaControl",
+              label: t("Customize Heat tooltip"),
+              height: 50,
               renderTrigger: true,
-              // ^ this makes it apply instantaneously, without triggering a "run query" button
-              label: t("Header Text"),
-              description: t("The text you want to see in the header"),
+              description: "Add tooltip Heat customization template here.",
             },
           },
         ],
         [
           {
-            name: "bold_text",
-            config: {
-              type: "CheckboxControl",
-              label: t("Bold Text"),
-              renderTrigger: true,
-              default: true,
-              description: t("A checkbox to make the "),
-            },
-          },
-        ],
-        [
-          {
-            name: "header_font_size",
+            name: "map_style",
             config: {
               type: "SelectControl",
-              label: t("Font Size"),
-              default: "xl",
+              label: t("Map Style"),
+              default: "light",
               choices: [
-                ["xxs", "xx-small"],
-                ["xs", "x-small"],
-                ["s", "small"],
-                ["m", "medium"],
-                ["l", "large"],
-                ["xl", "x-large"],
-                ["xxl", "xx-large"],
+                ["light", "Light"],
+                ["white-bg", "White Background"],
+                ["basic", "Basic"],
               ],
               renderTrigger: true,
-              description: t("The size of your header font"),
+              description: t("The style property of mapbox"),
+            },
+          },
+          {
+            name: "zoom",
+            config: {
+              type: "TextControl",
+              label: t("Map zoom"),
+              default: "3",
+              renderTrigger: true,
+            },
+          },
+        ],
+        [
+          {
+            name: "line_color",
+            config: {
+              type: "TextControl",
+              label: t("Border Line Color"),
+              default: "green",
+              renderTrigger: true,
+            },
+          },
+          {
+            name: "line_width",
+            config: {
+              type: "TextControl",
+              label: t("Border Line Width"),
+              default: "0.5",
+              renderTrigger: true,
+            },
+          },
+        ],
+      ],
+    },
+    {
+      label: t("Map Bubble Controls"),
+      expanded: true,
+      tabOverride: "customize",
+      controlSetRows: [
+        [
+          {
+            name: "bubble_color_scheme",
+            config: {
+              type: "TextControl",
+              label: t("Bubble color"),
+              default: "orange",
+              renderTrigger: true,
+            },
+          },
+        ],
+        [
+          {
+            name: "bubble_hover_template",
+            config: {
+              type: "TextAreaControl",
+              label: t("Customize Bubble tooltip"),
+              height: 50,
+              renderTrigger: true,
+              description:
+                "Add tooltip for bubble customization template here.",
+            },
+          },
+        ],
+        [
+          {
+            name: "max_bubble_size",
+            config: {
+              type: "TextControl",
+              renderTrigger: true,
+              label: t("Max Bubble Size"),
+              default: "35",
             },
           },
         ],

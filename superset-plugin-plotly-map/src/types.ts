@@ -25,9 +25,7 @@ export interface SupersetPluginPlotlyMapStylesProps {
   boldText: boolean;
 }
 
-interface SupersetPluginPlotlyMapCustomizeProps {
-  headerText: string;
-}
+interface SupersetPluginPlotlyMapCustomizeProps {}
 
 export type SupersetPluginPlotlyMapQueryFormData = QueryFormData &
   SupersetPluginPlotlyMapStylesProps &
@@ -36,6 +34,7 @@ export type SupersetPluginPlotlyMapQueryFormData = QueryFormData &
 export type SupersetPluginPlotlyMapProps = SupersetPluginPlotlyMapStylesProps &
   SupersetPluginPlotlyMapCustomizeProps & {
     data: any;
+    layout: any;
     // add typing here for the props you pass in from transformProps.ts!
   };
 

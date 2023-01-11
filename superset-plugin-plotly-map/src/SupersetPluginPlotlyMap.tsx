@@ -18,10 +18,8 @@
  */
 import React, { createRef } from 'react';
 import Plot from "react-plotly.js";
-
 import { styled } from '@superset-ui/core';
 import { SupersetPluginPlotlyMapProps, SupersetPluginPlotlyMapStylesProps } from './types';
-import { IndiaGeoJson } from "./data/india_geojson";
 
 // The following Styles component is a <div> element, which has been styled using Emotion
 // For docs, visit https://emotion.sh/docs/styled
@@ -51,8 +49,7 @@ const Styles = styled.div<SupersetPluginPlotlyMapStylesProps>`
 
 
 export default function SupersetPluginPlotlyMap(props: SupersetPluginPlotlyMapProps) {
-  const { data, height, width } = props;
-
+  const { data, height, width, layout } = props;
   const rootElem = createRef<HTMLDivElement>();
 
   return (
@@ -63,49 +60,10 @@ export default function SupersetPluginPlotlyMap(props: SupersetPluginPlotlyMapPr
       height={height}
       width={width}
     >
-      <Plot
-        data={[
-          {
-            type: "choroplethmapbox",
-            locations: data.locations,
-            z: data.z,
 
-            /*// @ts-ignore */
-            geojson: JSON.stringify(IndiaGeoJson),
-            featureidkey: 'properties.id',
-          }
-        ]}
-        layout={{
-          height,
-          width,
-          margin: { l: 0, t: 0, b: 0, r: 0 },
-          mapbox: {
-            center: { "lat": 21.8913, "lon": 78.0792 },
-            zoom: 3,
-            style: 'light',
-            bearing: 0,
-            layers: [
-              {
-                sourcetype: 'geojson',
-                source: JSON.stringify(IndiaGeoJson),
-                below: "",
-                type: "line",
-                line: {
-                  width: 0.5
-                },
-                color: "green",
-              },
-              {
-                sourcetype: 'geojson',
-                source: JSON.stringify(IndiaGeoJson),
-                below: "water",
-                type: 'fill',
-                color: 'red',
-                opacity: 0.8
-              }
-            ]
-          }
-        }}
+      <Plot
+        data={data}
+        layout={layout}
         config={{
           displayModeBar: false,
           mapboxAccessToken: "pk.eyJ1IjoidmlrcmFtb3RzaSIsImEiOiJjbGJwYWp2OW8wZmJ6M25tcmdnanNxODB1In0.l04RVGw0Ta47VqEUo53qYA"
