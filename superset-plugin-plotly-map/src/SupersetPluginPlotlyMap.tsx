@@ -51,7 +51,6 @@ const Styles = styled.div<SupersetPluginPlotlyMapStylesProps>`
 export default function SupersetPluginPlotlyMap(props: SupersetPluginPlotlyMapProps) {
   const { data, height, width, layout } = props;
   const rootElem = createRef<HTMLDivElement>();
-
   return (
     <Styles
       ref={rootElem}

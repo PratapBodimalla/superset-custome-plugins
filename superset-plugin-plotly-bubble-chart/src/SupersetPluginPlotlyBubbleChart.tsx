@@ -59,7 +59,6 @@ const Styles = styled.div<SupersetPluginPlotlyBubbleChartStylesProps>`
 
 export default function SupersetPluginPlotlyBubbleChart(props: SupersetPluginPlotlyBubbleChartProps) {
   const { data, height, width } = props;
-
   return (
     <Styles
       boldText={props.boldText}

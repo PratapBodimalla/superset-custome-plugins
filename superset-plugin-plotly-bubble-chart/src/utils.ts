@@ -1,4 +1,4 @@
-import { CategoricalColorNamespace, PlainObject } from "@superset-ui/core";
+import { PlainObject } from "@superset-ui/core";
 import { SliderStep } from "plotly.js";
 import { AddWhenType, ConvertToBubbleChartType } from "./types";
 
@@ -22,14 +22,15 @@ export const ConvertToBubbleChart = ({
         y: [],
         id: [],
         text: [],
-        marker: { size: [], color: [] },
+        year: [],
+        marker: { size: [], color: formData.series },
       };
     }
 
     return trace;
   }
 
-  const colorScale = CategoricalColorNamespace.getScale(formData.colorScheme);
+  // const colorScale = CategoricalColorNamespace.getScale(formData.colorScheme);
 
   for (var i = 0; i < data.length; i++) {
     let item = data[i];
@@ -43,6 +44,7 @@ export const ConvertToBubbleChart = ({
 
     var trace = getData(year, seriesName);
     trace.text.push(entityName);
+    trace.year.push(year);
 
     if (formData.hovertemplate) {
       trace.hovertemplate = formData.hovertemplate;
@@ -52,7 +54,7 @@ export const ConvertToBubbleChart = ({
     trace.x.push(x);
     trace.y.push(y);
     trace.marker.size.push(size);
-    trace.marker.color.push(colorScale(String(x)));
+    // trace.marker.color.push(colorScale(String(x)));
   }
 
   var years = Object.keys(lookup);
@@ -68,6 +70,7 @@ export const ConvertToBubbleChart = ({
       y: item.y.slice(),
       id: item.id.slice(),
       text: item.text.slice(),
+      year: item.year.slice(),
       mode: "markers",
       marker: {
         size: item.marker.size.slice(),
@@ -75,7 +78,7 @@ export const ConvertToBubbleChart = ({
         sizeref:
           (2.0 * Math.max(...item.marker.size.slice())) /
           Number(formData.maxBubbleSize || 50) ** 2,
-        color: item.marker.color.slice(),
+        color: item.marker.color,
       },
       ...addWhen({
         data: {
@@ -114,8 +117,16 @@ export const ConvertToBubbleChart = ({
     });
   }
 
-  const layout = {
+  const layout: Plotly.Layout = {
     xaxis: {
+      ...addWhen({
+        data: {
+          range: [formData.xMinRange, formData.xMaxRange],
+        },
+        arrayParse: false,
+        add: Boolean(formData.xMinRange) && Boolean(formData.xMaxRange),
+      }),
+
       ...addWhen({
         data: {
           title: formData.xtitle,
@@ -123,8 +134,16 @@ export const ConvertToBubbleChart = ({
         arrayParse: false,
         add: Boolean(formData.xtitle),
       }),
+      type: formData.xlog,
     },
     yaxis: {
+      ...addWhen({
+        data: {
+          range: [formData.yMinRange, formData.yMaxRange],
+        },
+        arrayParse: false,
+        add: Boolean(formData.xMinRange) && Boolean(formData.xMaxRange),
+      }),
       ...addWhen({
         data: {
           title: formData.ytitle,
@@ -132,7 +151,7 @@ export const ConvertToBubbleChart = ({
         arrayParse: false,
         add: Boolean(formData.ytitle),
       }),
-      type: "log",
+      type: formData.ylog,
     },
     hovermode: "closest",
     width: Number(width),
@@ -171,7 +190,7 @@ export const ConvertToBubbleChart = ({
         showactive: true,
         direction: "left",
         type: "buttons",
-        pad: { t: 48, r: 10, l: -35 },
+        pad: { t: 48, r: 10, l: -5 },
         buttons: [
           {
             method: "animate",
@@ -180,11 +199,16 @@ export const ConvertToBubbleChart = ({
               {
                 mode: "immediate",
                 fromcurrent: true,
-                transition: { duration: 300 },
-                frame: { duration: 500, redraw: false },
+                transition: { duration: formData.transition },
+                frame: {
+                  duration: formData.duration,
+                  redraw: false,
+                  easing: "linear",
+                  fromcurrent: true,
+                },
               },
             ],
-            label: "Play",
+            label: "&#9654;",
           },
           {
             method: "animate",
@@ -193,10 +217,15 @@ export const ConvertToBubbleChart = ({
               {
                 mode: "immediate",
                 transition: { duration: 0 },
-                frame: { duration: 0, redraw: false },
+                frame: {
+                  duration: 0,
+                  redraw: false,
+                  easing: "linear",
+                  fromcurrent: true,
+                },
               },
             ],
-            label: "Stop",
+            label: "&#9724;",
           },
         ],
       },

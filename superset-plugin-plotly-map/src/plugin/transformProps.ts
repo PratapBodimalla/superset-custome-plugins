@@ -26,7 +26,9 @@ import { IndiaGeoJson } from "../data/india_geojson";
 import { addWhen } from "../utils";
 
 export const getLabelData = ({ label, data }: { label: string; data: any }) =>
-  data.map((item: PlainObject) => item?.[label] || "");
+  data
+    .map((item: PlainObject) => item?.[label] || "")
+    .filter((i: any) => Boolean(i));
 
 export const getGeoData = ({ label, data }: { label: string; data: any }) =>
   IndiaGeoJson.features.map(
@@ -39,6 +41,7 @@ export default function transformProps(chartProps: ChartProps) {
   const data = queriesData[0].data as TimeseriesDataRecord[];
   const colorScale = CategoricalColorNamespace.getScale(formData.colorScheme);
   const scatters = getLabelData({ data, label: formData.metrics[1]?.label });
+  console.log(formData, "Formdata");
 
   return {
     width,
@@ -77,8 +80,10 @@ export default function transformProps(chartProps: ChartProps) {
     data: [
       {
         hovertemplate: formData.hoverTemplate,
+        text: getGeoData({ data, label: "ST_NM" }),
         locations: getLabelData({ data, label: formData.entity }),
         z: getLabelData({ data, label: formData.metrics[0].label }),
+        formData: formData,
         geojson: IndiaGeoJson,
         featureidkey: "properties.id",
         colorbar: {
@@ -106,6 +111,7 @@ export default function transformProps(chartProps: ChartProps) {
           text: getGeoData({ data, label: "ST_NM" }),
           lon: getGeoData({ data, label: "INSIDE_X" }),
           lat: getGeoData({ data, label: "INSIDE_Y" }),
+          formData: formData,
           marker: {
             color: formData.bubbleColorScheme,
             size: scatters,

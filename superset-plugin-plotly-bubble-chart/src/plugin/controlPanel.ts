@@ -181,6 +181,25 @@ const config: ControlPanelConfig = {
         ],
         [
           {
+            name: "xlog",
+            config: {
+              type: "SelectControl",
+              label: t("X-Type"),
+              default: "-",
+              choices: [
+                ["-", "-"],
+                ["linear", "Linear"],
+                ["log", "Logarithmic"],
+                ["date", "Date"],
+                ["category", "Category"],
+                ["multicategory", "Multi-Category"],
+              ],
+              renderTrigger: true,
+            },
+          },
+        ],
+        [
+          {
             name: "ytitle",
             config: {
               type: "TextControl",
@@ -190,11 +209,75 @@ const config: ControlPanelConfig = {
             },
           },
         ],
+        [
+          {
+            name: "ylog",
+            config: {
+              type: "SelectControl",
+              label: t("Y-Type"),
+              default: "-",
+              choices: [
+                ["-", "-"],
+                ["linear", "Linear"],
+                ["log", "Logarithmic"],
+                ["date", "Date"],
+                ["category", "Category"],
+                ["multicategory", "Multi-Category"],
+              ],
+              renderTrigger: true,
+            },
+          },
+        ],
+
+        [
+          {
+            name: "xMinRange",
+            config: {
+              type: "TextControl",
+              label: t("X Min Range"),
+              renderTrigger: true,
+              description:
+                "This value will only work if both x min and max are given",
+            },
+          },
+          {
+            name: "xMaxRange",
+            config: {
+              type: "TextControl",
+              label: t("X Max Range"),
+              renderTrigger: true,
+              description:
+                "This value will only work if both x min and max are given",
+            },
+          },
+        ],
+        [
+          {
+            name: "yMinRange",
+            config: {
+              type: "TextControl",
+              label: t("Y Min Range"),
+              renderTrigger: true,
+              description:
+                "This value will only work if both y min and max are given",
+            },
+          },
+          {
+            name: "yMaxRange",
+            config: {
+              type: "TextControl",
+              label: t("Y Max Range"),
+              renderTrigger: true,
+              description:
+                "This value will only work if both y min and max are given",
+            },
+          },
+        ],
       ],
     },
     {
       label: t("Legend controls"),
-      expanded: false,
+      expanded: true,
       tabOverride: "customize",
       controlSetRows: [
         [
@@ -237,6 +320,33 @@ const config: ControlPanelConfig = {
               label: t("Y-Axis"),
               type: "TextControl",
               renderTrigger: true,
+            },
+          },
+        ],
+      ],
+    },
+    {
+      label: t("Slider Animation"),
+      expanded: true,
+      tabOverride: "customize",
+      controlSetRows: [
+        [
+          {
+            name: "transition",
+            config: {
+              label: t("Transition"),
+              type: "TextControl",
+              renderTrigger: true,
+              default: 500,
+            },
+          },
+          {
+            name: "duration",
+            config: {
+              label: t("Duration"),
+              type: "TextControl",
+              renderTrigger: true,
+              default: 1000,
             },
           },
         ],

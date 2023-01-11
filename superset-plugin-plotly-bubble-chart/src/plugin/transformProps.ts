@@ -53,6 +53,8 @@ export default function transformProps(chartProps: ChartProps) {
   const { boldText, headerFontSize, headerText } = formData;
   const data = queriesData[0].data as DataRecord[];
 
+  console.log(formData, "Formdata");
+
   return {
     width,
     height,
