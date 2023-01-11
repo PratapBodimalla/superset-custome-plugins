@@ -203,6 +203,7 @@ const config: ControlPanelConfig = {
             config: {
               label: t("Show Legend"),
               type: "CheckboxControl",
+
               default: false,
               renderTrigger: true,
             },
