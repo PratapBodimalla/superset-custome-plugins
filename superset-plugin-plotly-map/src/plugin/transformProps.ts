@@ -25,15 +25,25 @@ import {
 import { IndiaGeoJson } from "../data/india_geojson";
 import { addWhen } from "../utils";
 
+const StateProperties: any = {};
+IndiaGeoJson.features.forEach((item) => {
+  StateProperties[item.properties.id] = item.properties;
+});
+
 export const getLabelData = ({ label, data }: { label: string; data: any }) =>
   data
     .map((item: PlainObject) => item?.[label] || "")
     .filter((i: any) => Boolean(i));
 
-export const getGeoData = ({ label, data }: { label: string; data: any }) =>
-  IndiaGeoJson.features.map(
-    (item: PlainObject) => item.properties?.[label] || ""
-  );
+export const getGeoData = ({
+  label,
+  data,
+  stateID,
+}: {
+  label: string;
+  data: any;
+  stateID: any;
+}) => data.map((dataItem: any) => StateProperties[dataItem[stateID]][label]);
 
 export default function transformProps(chartProps: ChartProps) {
   const { width, height, formData, queriesData } = chartProps;
@@ -80,7 +90,7 @@ export default function transformProps(chartProps: ChartProps) {
     data: [
       {
         hovertemplate: formData.hoverTemplate,
-        text: getGeoData({ data, label: "ST_NM" }),
+        text: getGeoData({ data, label: "ST_NM", stateID: formData.entity }),
         locations: getLabelData({ data, label: formData.entity }),
         z: getLabelData({ data, label: formData.metrics[0].label }),
         formData: formData,
@@ -108,9 +118,17 @@ export default function transformProps(chartProps: ChartProps) {
         data: {
           hovertemplate: formData.bubbleHoverTemplate,
           type: "scattermapbox",
-          text: getGeoData({ data, label: "ST_NM" }),
-          lon: getGeoData({ data, label: "INSIDE_X" }),
-          lat: getGeoData({ data, label: "INSIDE_Y" }),
+          text: getGeoData({ data, label: "ST_NM", stateID: formData.entity }),
+          lon: getGeoData({
+            data,
+            label: "INSIDE_X",
+            stateID: formData.entity,
+          }),
+          lat: getGeoData({
+            data,
+            label: "INSIDE_Y",
+            stateID: formData.entity,
+          }),
           formData: formData,
           marker: {
             color: formData.bubbleColorScheme,
