@@ -131,8 +131,44 @@ const config: ControlPanelConfig = {
       controlSetRows: [
         [
           {
-            name: "color_scheme",
-            config: { ...sharedControls.color_scheme, default: "mapgreen" },
+            name: "scheme",
+            config: {
+              type: "SelectControl",
+              label: "Color Scheme",
+              default: "Greens",
+              renderTrigger: true,
+              choices: [
+                ["Blackbody", "Blackbody"],
+                ["Bluered", "Bluered"],
+                ["Blues", "Blues"],
+                ["Cividis", "Cividis"],
+                ["Earth", "Earth"],
+                ["Electric", "Electric"],
+                ["Greens", "Greens"],
+                ["Greys", "Greys"],
+                ["Hot", "Hot"],
+                ["Jet", "Jet"],
+                ["Picnic", "Picnic"],
+                ["Portland", "Portland"],
+                ["Rainbow", "Rainbow"],
+                ["RdBu", "RdBu"],
+                ["Reds", "Reds"],
+                ["Viridis", "Viridis"],
+                ["YlGnBu", "YlGnBu"],
+                ["YlOrRd", "YlOrRd"],
+              ],
+            },
+          },
+        ],
+        [
+          {
+            name: "reversescale",
+            config: {
+              type: "CheckboxControl",
+              default: true,
+              renderTrigger: true,
+              label: t("Reverse Scale"),
+            },
           },
         ],
         [

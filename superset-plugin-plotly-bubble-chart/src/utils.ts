@@ -1,4 +1,4 @@
-import { PlainObject } from "@superset-ui/core";
+import { CategoricalColorNamespace, PlainObject } from "@superset-ui/core";
 import { SliderStep } from "plotly.js";
 import { AddWhenType, ConvertToBubbleChartType } from "./types";
 
@@ -23,14 +23,14 @@ export const ConvertToBubbleChart = ({
         id: [],
         text: [],
         year: [],
-        marker: { size: [], color: formData.series },
+        marker: { size: [], color: formData.mixedcolor ? [] : "" },
       };
     }
 
     return trace;
   }
 
-  // const colorScale = CategoricalColorNamespace.getScale(formData.colorScheme);
+  const colorScale = CategoricalColorNamespace.getScale(formData.colorScheme);
 
   for (var i = 0; i < data.length; i++) {
     let item = data[i];
@@ -54,7 +54,8 @@ export const ConvertToBubbleChart = ({
     trace.x.push(x);
     trace.y.push(y);
     trace.marker.size.push(size);
-    // trace.marker.color.push(colorScale(String(x)));
+
+    if (formData.mixedcolor) trace.marker.color.push(colorScale(String(x)));
   }
 
   var years = Object.keys(lookup);
@@ -75,10 +76,11 @@ export const ConvertToBubbleChart = ({
       marker: {
         size: item.marker.size.slice(),
         sizemode: "area",
+        sizemin: formData.minsize,
         sizeref:
           (2.0 * Math.max(...item.marker.size.slice())) /
           Number(formData.maxBubbleSize || 50) ** 2,
-        color: item.marker.color,
+        color: formData.mixedcolor ? item.marker.size.slice() : formData.series,
       },
       ...addWhen({
         data: {
@@ -111,7 +113,7 @@ export const ConvertToBubbleChart = ({
         {
           mode: "immediate",
           transition: { duration: 300 },
-          frame: { duration: 300, redraw: false },
+          frame: { duration: 300, redraw: true },
         },
       ],
     });
@@ -202,7 +204,7 @@ export const ConvertToBubbleChart = ({
                 transition: { duration: formData.transition },
                 frame: {
                   duration: formData.duration,
-                  redraw: false,
+                  redraw: true,
                   easing: "linear",
                   fromcurrent: true,
                 },
@@ -219,7 +221,7 @@ export const ConvertToBubbleChart = ({
                 transition: { duration: 0 },
                 frame: {
                   duration: 0,
-                  redraw: false,
+                  redraw: true,
                   easing: "linear",
                   fromcurrent: true,
                 },

@@ -125,24 +125,6 @@ const config: ControlPanelConfig = {
         ["size"],
         [
           {
-            name: "max_bubble_size",
-            config: {
-              type: "SelectControl",
-              freeForm: true,
-              label: t("Max Bubble Size"),
-              default: "25",
-              choices: formatSelectOptions([
-                "5",
-                "10",
-                "15",
-                "25",
-                "50",
-                "75",
-                "100",
-              ]),
-            },
-          },
-          {
             name: "row_limit",
             config: sharedControls.row_limit,
           },
@@ -157,6 +139,17 @@ const config: ControlPanelConfig = {
         ["color_scheme"],
         [
           {
+            name: "mixedcolor",
+            config: {
+              type: "CheckboxControl",
+              default: false,
+              label: t("Mixed Bubble Color"),
+              renderTrigger: true,
+            },
+          },
+        ],
+        [
+          {
             name: "hovertemplate",
             config: {
               type: "TextAreaControl",
@@ -165,6 +158,44 @@ const config: ControlPanelConfig = {
               renderTrigger: true,
               description: "Add tooltip customization template here.",
               language: "markdown",
+            },
+          },
+        ],
+        [
+          {
+            name: "minsize",
+            config: {
+              type: "SelectControl",
+              renderTrigger: true,
+              default: "10",
+              label: t("Min Bubble Size"),
+              choices: formatSelectOptions([
+                "5",
+                "10",
+                "15",
+                "25",
+                "50",
+                "75",
+                "100",
+              ]),
+            },
+          },
+          {
+            name: "max_bubble_size",
+            config: {
+              type: "SelectControl",
+              renderTrigger: true,
+              label: t("Max Bubble Size"),
+              default: "25",
+              choices: formatSelectOptions([
+                "5",
+                "10",
+                "15",
+                "25",
+                "50",
+                "75",
+                "100",
+              ]),
             },
           },
         ],

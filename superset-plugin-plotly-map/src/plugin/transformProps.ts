@@ -17,7 +17,7 @@
  * under the License.
  */
 import {
-  CategoricalColorNamespace,
+  // CategoricalColorNamespace,
   ChartProps,
   PlainObject,
   TimeseriesDataRecord,
@@ -49,7 +49,7 @@ export default function transformProps(chartProps: ChartProps) {
   const { width, height, formData, queriesData } = chartProps;
   const { boldText, headerFontSize, headerText } = formData;
   const data = queriesData[0].data as TimeseriesDataRecord[];
-  const colorScale = CategoricalColorNamespace.getScale(formData.colorScheme);
+  // const colorScale = CategoricalColorNamespace.getScale(formData.colorScheme);
   const scatters = getLabelData({ data, label: formData.metrics[1]?.label });
   console.log(formData, "Formdata");
 
@@ -105,13 +105,15 @@ export default function transformProps(chartProps: ChartProps) {
           yanchor: "bottom",
           y: 0.0,
         },
-        colorscale: [
-          [0.0, colorScale(0.0)],
-          [0.25, colorScale(0.25)],
-          [0.5, colorScale(0.5)],
-          [0.75, colorScale(0.75)],
-          [1.0, colorScale(1.0)],
-        ],
+        colorscale: formData.scheme,
+        reversescale: formData.reversescale,
+        // colorscale: [
+        //   [0.0, colorScale(0.0)],
+        //   [0.25, colorScale(0.25)],
+        //   [0.5, colorScale(0.5)],
+        //   [0.75, colorScale(0.75)],
+        //   [1.0, colorScale(1.0)],
+        // ],
         type: "choroplethmapbox",
       },
       ...addWhen({
