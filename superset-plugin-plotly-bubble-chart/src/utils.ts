@@ -76,10 +76,11 @@ export const ConvertToBubbleChart = ({
       marker: {
         size: item.marker.size.slice(),
         sizemode: "area",
-        sizemin: formData.minsize,
-        sizeref:
-          (2.0 * Math.max(...item.marker.size.slice())) /
-          Number(formData.maxBubbleSize || 50) ** 2,
+        sizemax: formData.maxsize,
+        // sizemin: formData.minsize,
+        // sizeref:
+        //   (2.0 * Math.max(...item.marker.size.slice())) /
+        //   Number(formData.maxBubbleSize || 50) ** 2,
         color: formData.mixedcolor ? item.marker.size.slice() : formData.series,
       },
       ...addWhen({

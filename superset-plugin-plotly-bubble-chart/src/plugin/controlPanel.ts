@@ -163,12 +163,12 @@ const config: ControlPanelConfig = {
         ],
         [
           {
-            name: "minsize",
+            name: "maxsize",
             config: {
               type: "SelectControl",
               renderTrigger: true,
               default: "10",
-              label: t("Min Bubble Size"),
+              label: t("Max Bubble Size"),
               choices: formatSelectOptions([
                 "5",
                 "10",
@@ -177,6 +177,8 @@ const config: ControlPanelConfig = {
                 "50",
                 "75",
                 "100",
+                "120",
+                "150",
               ]),
             },
           },
